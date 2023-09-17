@@ -1064,6 +1064,10 @@
     "en": "The use of Marathi language is mandatory in all offices/ public undertakings under the state."
   },
   {
+    "mr": "अखत्यारीतील सर्व कार्यालये/ सार्वजनिक उपक्रम यांनी मराठी भाषेचा वापर करणे अनिवार्य आहे.",
+    "en": "It is mandatory for all offices/ public undertakings under the jurisdiction to use Marathi language."
+  },
+  {
     "mr": "अखत्यारीतील सर्व कार्यालये/सार्वजनिक उपक्रम यांनी मराठी भाषेचा वापर करणे अनिवार्य आहे.",
     "en": "It is mandatory for all offices/ public undertakings under the jurisdiction to use Marathi language."
   },
@@ -2788,6 +2792,10 @@
     "en": "Total number of vacancies (9+2)"
   },
   {
+    "mr": "एकूण अस्थायी पदे (१) + (२)",
+    "en": "Total number of vacancies (1)+ (2)"
+  },
+  {
     "mr": "एकूण अस्थायी पदे (१+२)",
     "en": "Total number of vacancies (1+2)"
   },
@@ -2810,6 +2818,10 @@
   {
     "mr": "एकूण पदे",
     "en": "Total posts"
+  },
+  {
+    "mr": "एकूण पदे (१) + (२)",
+    "en": "Total number of posts (1)+ 2"
   },
   {
     "mr": "एकूण पदे (१+२)",
@@ -2976,6 +2988,14 @@
     "en": "S-1: 15000-47600"
   },
   {
+    "mr": "एस-१ : १५०००-४७६००/",
+    "en": "S-1: 15000-47600/"
+  },
+  {
+    "mr": "एस-१ : १५५००-४७६००/",
+    "en": "S-1: 15500-47600/"
+  },
+  {
     "mr": "एस-१, रु.१५०००-४७६००",
     "en": "S-1, Rs. 15000-47600"
   },
@@ -2996,6 +3016,10 @@
     "en": "S-10: 29200-92300"
   },
   {
+    "mr": "एस-१० : २९२००-९२३००/",
+    "en": "S-10: 29200-92300/"
+  },
+  {
     "mr": "एस-१०, रु.२९२००-९२३००",
     "en": "S-10, Rs. 29200-92300"
   },
@@ -3008,6 +3032,10 @@
     "en": "S-13: 35400-112400"
   },
   {
+    "mr": "एस-१३ : ३५४००-११२४००/",
+    "en": "S-13: 35400-112400/"
+  },
+  {
     "mr": "एस-१४",
     "en": "The S-14"
   },
@@ -3016,8 +3044,16 @@
     "en": "S-14: 38600-122800"
   },
   {
+    "mr": "एस-१४ : ३८६००-१२२८००/",
+    "en": "S-14: 38600-122800/"
+  },
+  {
     "mr": "एस-१४ :३८६००-१२२८००",
     "en": "S- 14:38600-122800"
+  },
+  {
+    "mr": "एस-१४ :३८६००-१२२८००/",
+    "en": "S- 14:38600-122800/"
   },
   {
     "mr": "एस-१४ ३८६००-१२२८००",
@@ -3040,8 +3076,16 @@
     "en": "S-15: 41800-132300"
   },
   {
+    "mr": "एस-१५ : ४१८००-१३२३००/",
+    "en": "S-15: 41800-132300/"
+  },
+  {
     "mr": "एस-१५ :४१८००-१३२३००",
     "en": "S- 15:41800-132300"
+  },
+  {
+    "mr": "एस-१५ :४१८००-१३२३००/",
+    "en": "S- 15:41800-132300/"
   },
   {
     "mr": "एस-१५, रु.४१८००-१३२३००",
@@ -3062,6 +3106,10 @@
   {
     "mr": "एस-१६ : ४४९००-१४२४००",
     "en": "S-16: 44900-142400"
+  },
+  {
+    "mr": "एस-१६ : ४४९००-१४२४००/",
+    "en": "S-16: 44900-142400/"
   },
   {
     "mr": "एस-१६:४४९००-१४२४००/ एस- १५ :४१८००-१३२३००",
@@ -3090,6 +3138,10 @@
   {
     "mr": "एस-२३ : ६७७००-२०८७००",
     "en": "S-23: 67700-208700"
+  },
+  {
+    "mr": "एस-२३ : ६७७००-२०८७००/",
+    "en": "S-23: 67700-208700/"
   },
   {
     "mr": "एस-२३, रु.६७७००-२०८७००",
@@ -3124,6 +3176,10 @@
     "en": "S-6: 19900-63200"
   },
   {
+    "mr": "एस-६ : १९९००-६३२००/",
+    "en": "S-6: 19900-63200/"
+  },
+  {
     "mr": "एस-६, रु. १९९००-६३२००",
     "en": "S-6, Rs. 19900-63200"
   },
@@ -3140,6 +3196,10 @@
     "en": "S-7: 21700-69100"
   },
   {
+    "mr": "एस-७ : २१७००-६९१००/",
+    "en": "S-7: 21700-69100/"
+  },
+  {
     "mr": "एस-७, रु. २१७००-६९१००",
     "en": "S-7, Rs. 21700-69100"
   },
@@ -3150,6 +3210,10 @@
   {
     "mr": "एस-८ : २५५००-८११००",
     "en": "S-8: 25500-81100"
+  },
+  {
+    "mr": "एस-८ : २५५००-८११००/",
+    "en": "S-8: 25500-81100/"
   },
   {
     "mr": "एस-८, रु.२५५००-८११००",
@@ -4160,6 +4224,10 @@
     "en": "Kolhapur"
   },
   {
+    "mr": "कोल्हापूर |",
+    "en": "Kolhapur."
+  },
+  {
     "mr": "क्र.",
     "en": "No."
   },
@@ -4592,12 +4660,24 @@
     "en": "From January, 2018. The deadline has been extended to February 28, 2018. Reference No. It's here 4"
   },
   {
+    "mr": "जालना, परभणी, हिंगोली, बीड, नांदेड, उस्मानाबाद, लातूर.",
+    "en": "Jalna, Parbhani, Hingoli, Beed, Nanded, Osmanabad, Latur."
+  },
+  {
     "mr": "जाहिरात द्यावी. ज्या मराठी भाषिक संस्थांचे अर्ज संचालक, राज्य मराठी विकास संस्था यांचेकडे विहित मुदतीत प्राप्त होतील अशा अर्जांची छाननी करावी.",
     "en": "Advertise. The applications of the Marathi-speaking institutions whose applications will be received by the Director, State Marathi Development Society within the prescribed time limit should be scrutinized."
   },
   {
+    "mr": "जिल्हाधिकारी",
+    "en": "the Collector"
+  },
+  {
     "mr": "जिल्हाधिकारी कार्यालयाकडून मराठी भाषा गौरव दिनी आयोजित कार्यक्रमात त्यांचा सत्कार करुन गौरव करण्यात यावा.",
     "en": "He should be felicitated by the Collector's office by organizing a program on Marathi Language Pride Day."
+  },
+  {
+    "mr": "जेणेकरुन कार्यक्रमाची व्याप्ती वाढून वाचन प्रेरणा दिनाचा संदेश सगळीकडे एकाचवेळी प्रसारीत करता येईल. सदर कार्यक्रम आयोजित करतांना मराठी भाषेचा प्रचार, प्रसार विकास, जतन, संवर्धन हे मराठी भाषा विभागाचे मुख्य धोरण विचारात घ्यावे.",
+    "en": "So that the scope of the program can be expanded and the message of Reading Inspiration Day can be spread everywhere at once. While organizing this program, the main policy of the Marathi Language Department should be considered for the promotion, development, preservation and conservation of Marathi language."
   },
   {
     "mr": "जेणेकरुन त्यांच्या प्रयत्नांना शासनाकडून कौतुकाची थाप मिळेल आणि त्यांच्यातील परस्पर संवाद वाढून परदेशात मराठी भाषेचे जतन व संवर्धन होण्यास मदत होईल. त्यासाठी आंतरराष्ट्रीय मराठी मंचाची स्थापना करुन या मंचासाठी समन्वयक नेमण्याची बाब शासनाच्या विचाराधीन होती.",
@@ -5484,6 +5564,10 @@
     "en": "It may also be noted that if no objections are received by the Government till the said date, the said provisional seniority shall be published as the final seniority assuming that there are no objections from the concerned."
   },
   {
+    "mr": "तसेच सर्व मंत्रालयीन विभाग व त्यांच्या अधिपत्याखालील सर्व शासकीय/निमशासकीय कार्यालये, शासकीय संस्था / मंडळ, सार्वजनिक उपक्रम इ. कार्यालयांनी वाचन प्रेरणा दिनानिमित्त विविध उपक्रमांचे आयोजन करावयाचे आहे.",
+    "en": "Also, all the Ministries/ Departments and all the Government/ Semi-Government Offices under them, Government Institutions/ Boards, Public Undertakings, etc. are to organize various activities on the occasion of Reading Inspiration Day."
+  },
+  {
     "mr": "तसेच “कविवर्य मंगेश पाडगांवकर, मराठी भाषा संवर्धक पुरस्कार” श्री. संजय जनार्दन भगत व मराठी साहित्य परिषद, आंध्र प्रदेश यांना जाहीर करण्यात येत आहे.",
     "en": "The award was also given to Sanjay Janardan Bhagat and Marathi Sahitya Parishad, Andhra Pradesh."
   },
@@ -5872,6 +5956,10 @@
     "en": "South Maharashtra Sahitya Sabha, Kolhapur"
   },
   {
+    "mr": "दक्षिण महाराष्ट्र साहित्य सभा, कोल्हापूर.",
+    "en": "South Maharashtra Sahitya Sabha, Kolhapur."
+  },
+  {
     "mr": "दरम्यान सिडको महामंडळाने त्यांच्या दि. २२.०८.२०१९ च्या पत्रान्वये (संदर्भ क्र. ५) सन २०१९-२० या वित्तीय वर्षातील विहीत दरानुसार सदर वाढीव भूखंडाच्या भाडेपट्टीचे शुल्क रू.२,२६,६०,२४७/ (अक्षरी रुपये दोन कोटी सव्वीस लाख साठ हजार दोनशे सत्तेचाळीस फक्त) अदा करण्याबाबत कळविले.",
     "en": "Meanwhile, Cidco Corporation has given its nod. vide letter dated 22.08.2019 (Refer No. 5) For the financial year 2019-20, the lease rent of the said enhanced plot as per the prescribed rates is Rs. 2,26,60, 247/ (Rupees Two Crore Sixty Six Lakh Sixty Two Thousand Forty Seven only)."
   },
@@ -6006,6 +6094,10 @@
   {
     "mr": "दि. १२.०९.२०१६ च्या शासन निर्णयानुसार कार्यवाही करावी.",
     "en": "Action should be taken as per the Government Decision dated 12.09.2016."
+  },
+  {
+    "mr": "दि. १३ सप्टेंबर, २०२३",
+    "en": "As of September 13, 2023"
   },
   {
     "mr": "दि. १३.२.२०२२ पासून पुढे १ वर्षांसाठी (दिनांक १२.२.२०२३ पर्यंत) मुदतवाढ देण्यात आली.",
@@ -7232,6 +7324,14 @@
     "en": "The date: September 9, 2021."
   },
   {
+    "mr": "दिनांक :- १३ सप्टेंबर, २०२३",
+    "en": "Date: 13th of September 2023"
+  },
+  {
+    "mr": "दिनांक :- १३ सप्टेंबर, २०२३.",
+    "en": "Date: September 13, 2023."
+  },
+  {
     "mr": "दिनांक :- १६ जानेवारी २०२३",
     "en": "Date: January 16, 2023"
   },
@@ -7398,6 +7498,10 @@
   {
     "mr": "दिनांक: ११ फेब्रुवारी, २०२१",
     "en": "Date: February 11, 2021"
+  },
+  {
+    "mr": "दिनांक: ११ सप्टेंबर, २०२३",
+    "en": "Date of release: September 11, 2023"
   },
   {
     "mr": "दिनांक: १२ जुलै, २०२३",
@@ -7998,6 +8102,10 @@
   {
     "mr": "निम्नश्रेणी लघुलेखक (मराठी)",
     "en": "Low Grade Short Writer (Marathi)"
+  },
+  {
+    "mr": "निम्नश्रेणी लघुलेखक (मराठी) / अध्यक्षांचे स्वीय सहायक",
+    "en": "Lower Grade Short Writer (Marathi)/ Personal Assistant to the President"
   },
   {
     "mr": "निम्नश्रेणी लघुलेखक (मराठी) अध्यक्षांचे स्वीय सहायक",
@@ -10636,6 +10744,10 @@
     "en": "Directorate of Languages, Mumbai."
   },
   {
+    "mr": "भाषा संचालनालय, मुख्यालय, मुंबई",
+    "en": "Directorate of Language, Headquarters, Mumbai"
+  },
+  {
     "mr": "भाषा संचालनालय, विभागीय कार्यालय, नवी मुंबई या कार्यालयातील \"विभागीय सहायक भाषा संचालक” हे पद दिनांक ३०.०५.२०१६ पासून रिक्त आहे. सदर रिक्त पदाचा अतिरिक्त कार्यभार अन्य अधिकाऱ्यांकडे वेळोवेळी सोपविण्यात आलेला आहे. संदर्भ क्र. २ अन्वये सदर रिक्त पदाचा",
     "en": "The post of\" Divisional Assistant Director of Languages\" in the Directorate of Languages, Divisional Office, Navi Mumbai is lying vacant since 30.05.2016. The additional charge of the said post has been handed over to other officers from time to time. Reference No. 2 vacant post"
   },
@@ -10746,6 +10858,10 @@
   {
     "mr": "भाषा संचालनालयातील अर्थसंकल्पाच्या मराठी अनुवादाचे काम करणाऱ्या अधिकारी / कर्मचारी यांना मिळणाऱ्या मानधनाच्या दरात सुधारणा",
     "en": "Revision in the rate of remuneration to the officers/ employees working on the Marathi translation of the budget in the Directorate of Language"
+  },
+  {
+    "mr": "भाषा संचालनालयातील अस्थायी पदांना दि. ०१.०९.२०२३ ते दि. २९.०२.२०२४ या कालावधीपर्यंत मुदतवाढ देण्याबाबत.",
+    "en": "Temporary posts in the Directorate of Language. 01.09.2023 to dt. regarding extension of time up to 29.02.2024."
   },
   {
     "mr": "भाषा संचालनालयातील अस्थायी पदांना दि.१.१०.२०१८ ते दि. २८.०२.२०१९ पर्यंत मुदतवाढ देण्याबाबत.",
@@ -11210,6 +11326,10 @@
   {
     "mr": "मराठवाडा साहित्य परिषद, औरंगाबाद",
     "en": "Marathwada Sahitya Parishad, Aurangabad"
+  },
+  {
+    "mr": "मराठवाडा साहित्य परिषद, औरंगाबाद.",
+    "en": "Marathwada Sahitya Parishad, Aurangabad."
   },
   {
     "mr": "मराठा साहित्य क्षेत्रातील समिक्षक",
@@ -11692,6 +11812,10 @@
     "en": "Regarding the formation of\" Marathi Certification Fixation Committee\" to reconsider the standardization, alphabetization, etc. regarding the Marathi language."
   },
   {
+    "mr": "मराठी भाषेसंदर्भात राबवण्यात येणाऱ्या विद्यमान व विस्तारीत उपक्रमांना संदर्भाधीन दि. २४ जून, २०२२ च्या शासन निर्णयाच्या अनुषंगाने प्रशासकीय मान्यता देण्यात आली आहे. सदर शासन निर्णयानुसार वाचन प्रेरणा दिनानिमित्त वाचन संस्कृती वृद्धीगत होण्यासाठी विविध प्रकारचे संदेश, व्याख्याने, चर्चासत्रे, अभिवाचन, सामूहिक वाचन, ग्रंथ प्रदर्शन इत्यादी कार्यक्रमासाठी मराठी भाषा विभाग व अधिनस्त कार्यालय यांना कार्यक्रमाचे आयोजन करण्याच्या सूचना देण्यात आल्या आहेत. विस्तारित उपक्रमा अंतर्गत मराठी भाषेच्या प्रचार-प्रसारासाठी विविध कार्यक्रमाचे आयोजन करण्याबाबात सूचित करण्यात आले आहे. सदर शासन निर्णयानुसार संबंधित आयुक्त व जिल्हाधिकारी यांनी विविध कार्यक्रमाचे आयोजन करावयाचे आहे.",
+    "en": "In the context of the ongoing and expanding initiatives being undertaken in respect of Marathi language, The administrative approval has been given in pursuance of the Government decision dated 24 th June, 2022. As per the decision of the government, the Marathi Language Department and the subordinate offices have been instructed to organize various types of messages, lectures, seminars, speeches, group reading, book exhibition, etc. to promote reading culture on the occasion of Reading Inspiration Day. Under the extended initiative, it has been suggested to organize various programs for the promotion of Marathi language. As per the decision of the government, the concerned commissioner and collector have to organize various programs."
+  },
+  {
     "mr": "मराठी भाषेसंदर्भात राबविण्यात येणाऱ्या विद्यमान व विस्तारीत उपक्रमांना एकत्रितरित्या \"मराठी भाषा प्रचार व प्रसारासाठीचे उपक्रम (कार्यक्रम)” म्हणून प्रशासकीय मान्यता देण्याबाबत.",
     "en": "To accord administrative approval to the existing and extended activities in respect of Marathi language as\" Activities (Programmes) for Promotion and Expansion of Marathi Language\""
   },
@@ -11750,6 +11874,10 @@
   {
     "mr": "मराठी विश्वकोश कार्यालय, वाई येथील २१ पदे (त्यापैकी कंत्राटी तत्वावरील ०५ पदे) अशा एकूण २७ अस्थायी",
     "en": "A total of 27 temporary posts (out of which 05 on contractual basis) in Marathi Encyclopedia Office, Wai"
+  },
+  {
+    "mr": "मराठी विश्वकोश कार्यालय, वाई, जि. सातारा",
+    "en": "Office of the Marathi Encyclopedia, Wai, G. Satara"
   },
   {
     "mr": "मराठी विश्वकोश कार्यालय, वाई, जि. सातारा.",
@@ -12028,6 +12156,10 @@
     "en": "The Provisional Seniority of Assistant Secretary, Group-B in the Maharashtra State Marathi Encyclopedia Production Board, Mumbai for the period 01.01.2022 and 01.01.2023. 2 has been published here."
   },
   {
+    "mr": "महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ, मुख्यालय, मुंबई",
+    "en": "Maharashtra State Marathi Encyclopedia Production Board, Headquarter, Mumbai"
+  },
+  {
     "mr": "महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ, वाई कार्यालय येथे सहायक सचिव, गट-ब (राजपत्रित) या संवर्गातील (वेतनश्रेणी एस-१५ : ४१८००-१३२३००/-) पदावर कार्यरत असलेल्या डॉ. शामकांत बा. देवरे यांना सन २०२२-२३ या वर्षाच्या निवडसूचीत सातव्या वेतन आयोगानुसार एस-२३ : ६७७००-२०८७०० या वेतनसंरचनेतील सचिव, महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ, मुंबई या एकाकी व रिक्त पदावर या आदेशाद्वारे विहित केलेल्या अटी व शर्तींच्या अधीन राहून निव्वळ तात्पुरत्या स्वरुपात पदोन्नती देण्यात येत आहे.",
     "en": "Dr. Shamkant Ba, Assistant Secretary, Group-B (Gazetted) Cadre (Pay Scale S-15: 41800-132300/-) at Maharashtra State Marathi Encyclopedia Production Board, Waii Office. Devare is being promoted in the Seventh Pay Commission pay structure S-23: 67700-208700 for the year 2022-23 to the lone and vacant post of Secretary, Maharashtra State Marathi Encyclopaedia Production Board, Mumbai subject to the terms and conditions prescribed by this order."
   },
@@ -12172,6 +12304,10 @@
     "en": "Dilip Karambelkar resigns as president of Maharashtra State Marathi Encyclopedia Production Board"
   },
   {
+    "mr": "महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळातील अस्थायी पदांना दि. ०१.०९.२०२३ ते ते दि. २९.०२.२०२४ या कालावधीसाठी मुदतवाढ देणेबाबत.",
+    "en": "Maharashtra State Marathi Encyclopedia Production Board 01.09.2023 to that effect. regarding extension for the period 29.02.2024."
+  },
+  {
     "mr": "महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळातील ज्ञानमंडळाच्या प्रशासकीय कामासाठी मंजूर करण्यात आलेल्या दोन कंत्राटी सहायक पदांचे एकत्रिकरण करुन त्यांचे रुपांतरण एका संगणक अधिकारी पदामध्ये करण्याबाबत महाराष्ट्र शासन",
     "en": "The Government of Maharashtra has decided to merge the two posts of contractual assistant sanctioned for the administrative work of Gyan Mandal in the Maharashtra State Marathi Encyclopedia Production Board and convert them into the post of a computer officer."
   },
@@ -12298,6 +12434,10 @@
   {
     "mr": "महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळाच्या कार्यालयाचे भाडे अदा करण्यासाठी अनुदान मंजूर करण्याबाबतच्या संदर्भाधीन दिनांक २७ मार्च, २०१८ च्या शासन निर्णयामध्ये परिच्छेद क्र.७ नंतर परिच्छेद क्र.८ पुढीलप्रमाणे अंतर्भूत करण्यात येत आहे.",
     "en": "In the Government Resolution dated 27th March, 2018 regarding sanction of grant for payment of rent for the office of Maharashtra State Board of Literature and Culture, vide para No. After section 7. 8 are included as follows:"
+  },
+  {
+    "mr": "महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळाच्या कार्यालयातील अस्थायी पदांना दि. ०१.०९.२०२३ ते दि. २९.०२.२०२४ या कालावधीपर्यंत मुदतवाढ देणेबाबत.",
+    "en": "Maharashtra State Board of Literature and Culture. 01.09.2023 to dt. regarding extension of time up to 29.02.2024."
   },
   {
     "mr": "महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळाच्या कार्यालयातील अस्थायी पदांना दि.०१.०३.२०२० ते दि.३१.०८.२०२० पर्यंत मुदतवाढ देण्याबाबत.",
@@ -12732,6 +12872,18 @@
     "en": "The guidelines should be sent to the appropriate authorities."
   },
   {
+    "mr": "मासिक ठोक मानधन रु. ११०००/",
+    "en": "Monthly stipend of Rs.11000/"
+  },
+  {
+    "mr": "मासिक ठोक मानधन रु. १४०००/",
+    "en": "Monthly stipend of Rs.14000/"
+  },
+  {
+    "mr": "मासिक ठोक मानधन रु. २१०००/",
+    "en": "Monthly stipend of Rs.21000/"
+  },
+  {
     "mr": "मासिक ठोक मानधन रुपये ११,०००/",
     "en": "Monthly stipend of Rs 11,000/-"
   },
@@ -13020,6 +13172,10 @@
     "en": "are provided under this provision."
   },
   {
+    "mr": "या धोरणास अनुसरुन वेगवेगळे उपक्रम/कार्यक्रम/योजना राबविण्यात येतात. या धोरणाची व्यापकता वाढविण्यासाठी केवळ वरील योजना पुरेशा नसल्यामुळे वाचन प्रेरणा दिन किंवा अन्य कार्यक्रमाचे औचित्य साधून वेगवेगळे कार्यक्रम मराठीच्या प्रचार, प्रसारासाठी आयोजित करण्याच्या सूचना देण्यात येतात.",
+    "en": "Various activities/ programmes/ schemes are implemented in accordance with this policy. Since the above schemes alone are not enough to expand the scope of this policy, instructions are given to organize different programs for the promotion of Marathi on the occasion of Reading Inspiration Day or other programs."
+  },
+  {
     "mr": "या पदाचा अतिरिक्त कार्यभार सदर आदेशाच्या दिनांकापासून संपुष्टात आणण्यात येत असून",
     "en": "The additional charge of this post is being terminated from the date of this order."
   },
@@ -13166,6 +13322,10 @@
   {
     "mr": "याबाबत सर्व जिल्हाधिकाऱ्यांनी शासनाने वेळोवेळी निर्गमित केलेले आदेश संबंधितांच्या",
     "en": "Orders in this regard have been issued to all the district magistrates."
+  },
+  {
+    "mr": "याबाबत सर्व जिल्हाधिकाऱ्यांनी शासनाने वेळोवेळी निर्गमित केलेले आदेश संबंधितांच्या निदर्शनास आणावे.",
+    "en": "All the district collectors should bring to the notice of the concerned authorities the orders issued from time to time."
   },
   {
     "mr": "याबाबत होणारा खर्च महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळाच्या योजनांतर्गत योजनेच्या खर्चासाठी असलेल्या “ मुख्य लेखाशीर्ष मागणी क्रमांक-झेडएफ-०२, २२०५-कला व संस्कृती (०२)(०३) मराठी विश्वकोश निर्मिती मंडळाचे विकास कार्यक्रम- संगणक सांकेतांक क्रमांक-२२०५ ३२२३,३१-सहाय्यक अनुदाने (वेतनेतर) (योजनांतर्गत योजना)” या लेखाशीर्षाअंतर्गत मंजूर असलेल्या तरतूदीतून भागविण्यात येईल.",
@@ -14328,6 +14488,14 @@
     "en": "Read: 1) Department of Marathi Language, Government Resolution No. 2018/ No. 47/ Language-1, dated 04.09.2018."
   },
   {
+    "mr": "वाचा : १) मराठी भाषा विभाग, शासन निर्णय क्र. आढावा २०१६/प्र.क्र.२३८/आस्था-१, दि. १४.११.२०१९ २) मराठी भाषा विभाग, शासन निर्णय क्र. विअस्था-२०२२/प्र.क्र.१७/आस्था-२, दि. १५.०२.२०२३ ३) वित्त विभाग, शासन निर्णय क्र. पदनि २०१६/प्र.क्र.८/१६/आ.पु.क. दि. ३१ ऑगस्ट, २०२३.",
+    "en": "Read: 1) Department of Marathi Language, Government Resolution No. REVIEW 2016/ Q.No.238/ Aastha-1, D. 14.11.2019 2) Department of Marathi Language, Government Resolution No. 15.02.2023 3) Department of Finance, Government Resolution No. No. 2016/ Q. No. 8/16/ A.P.C.D. 31st August, 2023."
+  },
+  {
+    "mr": "वाचा : १) मराठी भाषा विभाग, शासन निर्णय क्र. भापनि १२११/प्र.क्र.०५/आस्था-२, दि. २९.१०.२०२१ २) मराठी भाषा विभाग, शासन आदेश क्र. भाअस्था-२०२२/प्र.क्र.१५/आस्था-२, दि. ०३.०३.२०२३ ३) वित्त विभाग, शासन निर्णय क्र.पदनि २०१६/प्र.क्र.८/१६/आ.पु.क., दि. ३१ ऑगस्ट, २०२३ ४) वित्त विभाग, शासन शुद्धीपत्रक क्र. पदनि २०१६/प्र.क्र.८/१६आ.पु.क., दि. ०६ सप्टेंबर, २०२३ ५) भाषा संचालक यांचे पत्र क्र. पदनि २०२३/प्र.क्र.३४/११८४/चौदा, दि. ०९.०९.२०२३",
+    "en": "Read: 1) Department of Marathi Language, Government Resolution No. Bhapani 1211/ No. 05/ Astha-2, Dy. 29.10.2021 2) Department of Marathi Language, Government Order No. 03.03.2023 3) Department of Finance, Government Resolution No. Post No. 2016/ Q. No. 8/16/ A.P.C., Dy. 31st August, 2023 4) Finance Department, Government Corrigendum No. Post No. 2016/ Q. No. 8/16 A.P.C., Dy. 06 September, 2023 5) Letter from the Director of Language No. Designation 2023/ Q.No. 34/1184/ XIV, Dy. 09.09.2023"
+  },
+  {
     "mr": "वाचा : १) मराठी भाषा विभाग, शासन निर्णय क्र. भासंपु-२०१६/प्र.क्र.२६/२०१६ / भाषा-३, दिनांक १८ फेब्रुवारी, २०१६.",
     "en": "Department of Marathi Language, Government Resolution No. Bhasampu-2016/ PR No. 26/2016/ Language-3, dated 18th February, 2016."
   },
@@ -14604,6 +14772,10 @@
     "en": "Read: 1. Marathi Language Department Government Resolution No. Ramvi-1014/ PR No. 44/2014/ Language-3, D. 17th October, 2015 2. Department of Finance Government Resolution No. 1010/ No. 2/ Service No. 5, D. on the 3rd March 2010,"
   },
   {
+    "mr": "वाचा : १. मराठी भाषा विभाग, शासन निर्णय क्र. आढावा २०१६/प्र.क्र.२३८/आस्था-१, दि. १४.११.२०१९ २. मराठी भाषा विभाग, शासन निर्णय क्र. साअस्था-२०२२/प्र.क्र.१६/आस्था-२, , दि. १५.०२.२०२३ ३. सचिव, महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ, मुंबई यांचे पत्र क्र. सासंमं २०२३/आस्थापना/माअमाअ/प्र.क्र.१४८/२६०७, दि. २४.०७.२०२३ ४. वित्त विभाग, शासन निर्णय क्र. पदनि २०१६/प्र.क्र.८/१६/आ.पु.क., दि. ३१ ऑगस्ट, २०२३ ५. वित्त विभाग, शासन शुद्धीपत्रक क्र. पदनि २०१६/प्र.क्र.८/१६/आ.पु.क., दि. ०६ सप्टेंबर, २०२३",
+    "en": "Read: 1. Department of Marathi Language, Government Resolution No. REVIEW 2016/ Q.No.238/ Aastha-1, D. 14.11.2019 Department of Marathi Language, Government Resolution No. 2022/ No. 16/ Aastha-2, 15.02.2023 3. Secretary, Maharashtra State Board of Literature and Culture, Mumbai vide letter No. S.M. 2023/ Establishment/ MAAMA/ P.No. 148/2607, Dy. 24.07.2023 4. Department of Finance, Government Resolution No. Post No. 2016/ Q. No. 8/16/ A.P.C., Dy. 31st August, 2023 5. Finance Department, Government Corrigendum No. Post No. 2016/ Q. No. 8/16/ A.P.C., Dy. As of September 6, 2023"
+  },
+  {
     "mr": "वाचा : १. मराठी भाषा विभाग, शासन निर्णय क्र. विंदापु-१०१४/प्र.क्र.११२/२०१४/भाषा-३, दिनांक १२ फेब्रुवारी, २०१५ व १२ जुलै, २०१८.",
     "en": "Department of Marathi Language, Government Resolution No.Vindapu-1014/ PR No. 112/2014/ Language-3, dated 12th February, 2015 and 12th July, 2018."
   },
@@ -14712,6 +14884,10 @@
     "en": "Read:- 1) Department of Marathi Language, Government Resolution No. 2015/ P. No. 103/ Language-3, D. 09.10.2015 2) Department of Marathi Language, Government Resolution No. 23.08.2018 3) Department of Marathi Language, Budget, Memorandum No. 07.03.2022"
   },
   {
+    "mr": "वाचा :- १) मराठी भाषा विभाग, शासन परिपत्रक क्र.वाप्रेदि-२०१५/प्र.क्र.८९/२०१५/भाषा-३, दिनांक १४ ऑक्टोबर, २०१५.",
+    "en": "Department of Marathi Language, Government Circular No. 89/2015/ Language-3, dated 14th October, 2015."
+  },
+  {
     "mr": "वाचा :- १) मराठी भाषा विभाग, शासन परिपत्रक क्र.वाप्रेदि-२०२२/प्र.क्र.७५/२०२२/भाषा-३, दिनांक २६ सप्टेंबर, २०२२.",
     "en": "Department of Marathi Language, Government Circular No. 75/2022/ Language-3, dated 26th September, 2022."
   },
@@ -14766,6 +14942,14 @@
   {
     "mr": "वाचा येथील अ.क्र. १ ते ३ येथील शासन निर्णय अधिक्रमित करण्यात येत आहेत. मराठी भाषा विभागाच्या",
     "en": "Read here Government decisions from No. 1 to 3 are being overruled. Department of Marathi Language"
+  },
+  {
+    "mr": "वाचा येथे नमूद अ.क्र. १ येथील शासन निर्णयान्वये विभागाचा व विभागाच्या अधिनस्त असलेल्या क्षेत्रिय कार्यालयांचा आकृतीबंध निश्चित करण्यात आला आहे. त्यानुसार, विभागाच्या अधिनस्त असलेल्या महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ, मुंबई या कार्यालयासाठी एकूण २१ पदे मंजूर करण्यात आली असून, त्यापैकी ४ पदे अस्थायी आहेत. सदर ४ अस्थायी पदांना वाचा येथे नमूद अ.क्र. २ येथील शासन निर्णयान्वये दिनांक दि. ०१.०३.२०२३ ते दि. ३१.०८.२०२३ या कालावधीपर्यंत मुदतवाढ देण्यात आली आहे.",
+    "en": "Read the diagram of the department and the area offices under the department have been fixed by the government decision mentioned here in No. 1. Accordingly, a total of 21 posts have been sanctioned for the office of Maharashtra State Board of Literature and Culture, Mumbai, which is under the department, out of which 4 posts are temporary. For these 4 temporary posts, read the official notification here. 01.03.2023 to dt. The period has been extended up to 31.08.2023."
+  },
+  {
+    "mr": "वाचा येथे नमूद अ.क्र. १) येथील शासन निर्णयान्वये मराठी भाषा विभाग व विभागाच्या अधिनस्त क्षेत्रिय कार्यालयांचा सुधारीत आकृतीबंध निश्चित करण्यात आला आहे. त्यानुसार विभागाच्या अधिनस्त असलेल्या महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ, मुंबई या कार्यालयासाठी एकूण २७ अस्थायी पदे मंजूर करण्यात आली आहेत. यापैकी, मुंबई येथील मुख्यालयासाठी ६ अस्थायी पदे व वाई येथील कार्यालयासाठी २१ अस्थायी पदे मंजूर करण्यात आली आहेत. वाचा येथे नमूद अ.क्र. २) येथील शासन निर्णयान्वये महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळातील एकूण २७ अस्थायी पदांना दिनांक ०१.०३.२०२३ ते दिनांक ३१.०८.२०२३ या कालावधीसाठी मुदतवाढ देण्यात आली आहे.",
+    "en": "As per the decision of the Government, the revised layout of the Marathi Language Department and the subordinate field offices of the department has been fixed. Accordingly, a total of 27 temporary posts have been sanctioned for the office of Maharashtra State Marathi Encyclopedia Production Board, Mumbai, which is under the department. Out of these, 6 temporary posts have been sanctioned for the headquarters at Mumbai and 21 temporary posts for the office at Wai. A total of 27 temporary posts in Maharashtra State Marathi Encyclopedia Production Board have been extended for the period from 01.03.2023 to 31.08.2023."
   },
   {
     "mr": "वाचा १) मराठी भाषा विभाग, शासन आदेश समक्रमांक, दि.०६.१२.२०१९.",
@@ -15076,6 +15260,10 @@
     "en": "Vidarbha Sahitya Sangh, Nagpur"
   },
   {
+    "mr": "विदर्भ साहित्य संघ, नागपूर.",
+    "en": "Vidarbha Sahitya Sangh, Nagpur."
+  },
+  {
     "mr": "विद्यानंद रानडे",
     "en": "Vidyanand Rane"
   },
@@ -15274,6 +15462,22 @@
   {
     "mr": "विभागीय कार्यालय",
     "en": "the Departmental Office"
+  },
+  {
+    "mr": "विभागीय कार्यालय औरंगाबाद",
+    "en": "the Divisional Office Aurangabad"
+  },
+  {
+    "mr": "विभागीय कार्यालय, नवी मुंबई",
+    "en": "Regional Office, Navi Mumbai"
+  },
+  {
+    "mr": "विभागीय कार्यालय, नागपूर",
+    "en": "the Divisional Office, Nagpur"
+  },
+  {
+    "mr": "विभागीय कार्यालय, पुणे",
+    "en": "the Divisional Office, Pune"
   },
   {
     "mr": "विभागीय कार्यालयातील पुढील तक्त्यात दर्शविलेली एकूण १६ अस्थायी पदे पुढे चालू ठेवण्यास विहित",
@@ -15748,6 +15952,10 @@
     "en": "Government Order No. Vishwap-2021/ P.S. No.45/ Astha-2"
   },
   {
+    "mr": "शासन आदेश क्र. साअस्था-२०२२/प्र.क्र.१६/आस्था-२",
+    "en": "Government Order No. Saasthya-2022/ No.16/ Aastha-2"
+  },
+  {
     "mr": "शासन आदेश क्रमांक : अतिका-२०१९/प्र.क्र.१५३/आस्था-२",
     "en": "Government Order No: Atika-2019/ PR No.153/ Aastha-2"
   },
@@ -15980,6 +16188,10 @@
     "en": "Government Order No: Committee-2020/ PR No.50/ Aastha-2"
   },
   {
+    "mr": "शासन आदेश क्रमांकः साअस्था-२०२२/प्र.क्र.१६/आस्था-२",
+    "en": "Government Order No: SAASTHA-2022/ PR No.16/ AASTA-2"
+  },
+  {
     "mr": "शासन आदेश क्रमांकःविश्ववे-२०२०/प्र.क्र.४६/आस्था-२",
     "en": "GOVERNMENT ORDER NO.: VISWAVE-2020/ PR No.46/ AASTA-2"
   },
@@ -16054,6 +16266,10 @@
   {
     "mr": "शासन निर्णय :",
     "en": "Government's decision:"
+  },
+  {
+    "mr": "शासन निर्णय : उपरोक्त वाचा येथे नमूद अ.क्र. १) येथील शासन निर्णयान्वये भाषा संचालनालयाचा सुधारीत आकृतीबंध अंतिम करण्यात आला आहे. त्यानुसार भाषा संचालनालयाच्या मुख्यालय, मुंबई येथील व भाषा संचालनालयाच्या अधिनस्त असलेल्या नवी मुंबई, पुणे, नागपूर व औरंगाबाद या चार विभागीय कार्यालयांतील एकूण १२७ पदांमधील एकूण १६ अस्थायी पदांना वाचा येथे नमूद अ. क्र. २) येथील शासन आदेशान्वये दि. ३१.०८.२०२३ पर्यंत मुदतवाढ देण्यात आलेली आहे.",
+    "en": "GOVERNOR'S DECISION: The revised format of the Directorate of Languages has been finalized under the Government Decision No. 1 mentioned above. Accordingly, a total of 16 temporary posts out of a total of 127 posts in the four divisional offices of the Directorate of Languages in Navi Mumbai, Pune, Nagpur and Aurangabad under the Directorate of Languages, Mumbai, have been filled. The period has been extended up to 31.08.2023."
   },
   {
     "mr": "शासन निर्णय : दिव्यांग व्यक्ती हक्क अधिनियम, २०१६ मधील कलम ३३ नुसार दिव्यांगासाठी शासन सेवेतील पदांची पदसुनिश्चिती करण्यासाठी केंद्र शासनाच्या सामाजिक न्याय व अधिकारीता मंत्रालय, नवी दिल्ली यांनी दि.०४.०१.२०२१ अधिसूचनेन्वये दिव्यांगासाठी सुनिश्चित केलेल्या पदांची यादी करून प्रसिद्ध केलेली आहे.",
@@ -16204,6 +16420,10 @@
     "en": "Instead of the name' Diwan', it should be read as' Dr. Shrikant Moreshwar Diwan'."
   },
   {
+    "mr": "शासन निर्णय क्र. भाअस्था-२०२२/प्र.क्र.१५/आस्था-२",
+    "en": "Government Resolution No. 2022/ No. 15/ Astha-2"
+  },
+  {
     "mr": "शासन निर्णय क्र. मभाभ-२०२२/प्र.क्र.१४/भाषा-१ (दुय्यम नस्ती)",
     "en": "Government Decision No.Mabhabh-2022/ P.S. 14/ Language-1 (Secondary Nasty)"
   },
@@ -16230,6 +16450,10 @@
   {
     "mr": "शासन निर्णय क्र.मभाभ-२०२१/प्र.क्र.४८/भाषा-१, दि.०६.०४.२०२२ सोबतचे विवरणपत्र",
     "en": "Government Resolution R.MBH-2021/ PR.A.Hdnt.R.48/BH-1 dated 06.04.2022"
+  },
+  {
+    "mr": "शासन निर्णय क्रमांक - विअस्था- २०२२/प्र.क्र.१७/आस्था- २",
+    "en": "Government Resolution No.- Vistha-2022/ P.S. No.17/ Astha-2"
   },
   {
     "mr": "शासन निर्णय क्रमांक - समभा-२०१९/प्र.क्र.९१/नों.शा.",
@@ -17576,6 +17800,10 @@
     "en": "The Government has decided to celebrate 15th October, the birth anniversary of former President of India Late Dr. A.P.J. Abdul Kalam as\" Reading Inspiration Day\" with an aim to preserve his memory. In pursuance of this decision, instructions were issued earlier through the relevant Government Circulars to encourage reading and develop the love of reading among school and college students. Similarly, this year also, to mark the Reading Inspiration Day, all Ministries/ Departments and all Government/ Semi-Government Offices under them, Government Institutions/ Boards, Public Undertakings, etc."
   },
   {
+    "mr": "शासन परिपत्रक : माजी राष्ट्रपती स्व.डॉ.ए.पी.जे. अब्दुल कलाम यांच्या स्मृती जतन करण्याच्या उद्देशाने दिनांक १५ ऑक्टोबर हा त्यांचा जन्मदिवस “वाचन प्रेरणा दिन” म्हणून साजरा करण्यात येतो. या निर्णयास अनुसरुन शालेय व महाविद्यालयीन विद्यार्थ्यांमध्ये वाचनाची प्रेरणा निर्माण करण्यासाठी व वाचनाची आवड वृध्दींगत करण्याच्या दृष्टीने संदर्भाधीन शासन परिपत्रक क्र.१ च्या अनुषंगाने \"वाचन प्रेरणा दिन\" कार्यक्रम साजरा करण्यासाठी सर्व मंत्रालयीन विभाग व त्यांच्या अधिपत्याखालील सर्व शासकीय/निमशासकीय कार्यालये, शासकीय संस्था/ मंडळ, सार्वजनिक उपक्रम इ. कार्यालयांनी देखील विविध उपक्रमांचे आयोजन करण्याबाबत दरवर्षी सूचना देण्यात येतात.",
+    "en": "Government Circular: With a view to preserve the memory of former President late Dr. A. P. J. Abdul Kalam, his birthday on 15th October is celebrated as\" Reading Inspiration Day.\" Pursuant to this decision, in order to encourage reading and promote the love of reading among school and college students, the Government vide Circular No. In pursuance of the\" Reading Motivation Day\" programme, all Ministries/ Departments and all Government/ Semi-Government offices under them, Government Institutions/ Boards, Public Undertakings, etc. are also advised to organize various activities every year."
+  },
+  {
     "mr": "शासन परिपत्रक : वि.वा.शिरवाडकर उर्फ कुसुमाग्रज यांनी महाराष्ट्राच्या सांस्कृतिक क्षेत्रामध्ये मोलाचे योगदान दिले असून, मराठी भाषा ही ज्ञानभाषा होण्यासाठी अथक परिश्रम घेतले आहेत. आपल्या मातृभाषेचा गौरव म्हणून वि.वा.शिरवाडकर उर्फ कुसुमाग्रज यांचा दिनांक २७ फेब्रुवारी हा जन्मदिन \"मराठी भाषा गौरव दिन\" म्हणून साजरा करण्याच्या सूचना यापूर्वी दिनांक २१ जानेवारी, २०१३ च्या शासन निर्णयान्वये देण्यात आल्या आहेत.",
     "en": "Government Circular: V. V. Shirwadkar alias Kusumagraj has made a valuable contribution to the cultural field of Maharashtra and has worked tirelessly to make Marathi language a language of knowledge. As a mark of respect to our mother tongue, instructions have been given earlier under the Government Decision dated 21st January, 2013 to celebrate the birthday of V. V. Shirwadkar alias Kusumagraj on 27th February as\" Marathi Bhasha Gaurav Din.\""
   },
@@ -17752,6 +17980,10 @@
     "en": "Government Circular No: Mabhava-2019/ PR No.93/ Language-2"
   },
   {
+    "mr": "शासन परिपत्रक क्रमांक: वाप्रेदि-२०२३/प्र.क्र.१००/भाषा-३",
+    "en": "Government Circular No: APPREDI-2023/ PR No.100/ Language-3"
+  },
+  {
     "mr": "शासन परिपत्रक क्रमांक: संकीर्ण-२०१९/प्र.क्र.१८/भाषा-१,",
     "en": "Government Circular No: Narikal-2019/ PR No.18/ Language-1,"
   },
@@ -17886,6 +18118,10 @@
   {
     "mr": "शासन परिपत्रक क्रमांकः वाप्रेदि-२०२१/प्र.क्र.४७/भाषा-३",
     "en": "Government Circular No: UAPREDI-2021/ PR No.47/ LANGUAGE-3"
+  },
+  {
+    "mr": "शासन परिपत्रक क्रमांकः वाप्रेदि-२०२३/प्र.क्र.१००/भाषा-३",
+    "en": "Government Circular No: APPREDI-2023/ PR No.100/ Language-3"
   },
   {
     "mr": "शासन परिपत्रक क्रमांकः विज्येसू-२०१४/प्र.क्र.८७/आस्था-२",
@@ -20484,6 +20720,10 @@
     "en": "Directorate of Languages to organize the above programs to all the District Collectors,"
   },
   {
+    "mr": "सर्व जिल्हाधिकाऱ्यांना वरीलप्रमाणे कार्यक्रमांचे आयोजन करण्यासाठी भाषा संचालनालय, मुंबई, महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ, मुंबई, महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ, मुंबई आणि राज्य मराठी विकास संस्था, मुंबई तसेच अ.क्र.२६ येथे दर्शविलेल्या साहित्य संस्थांची मदत घेता येईल.",
+    "en": "All the District Collectors can take the help of the Directorate of Languages, Mumbai, Maharashtra State Marathi Encyclopedia Production Board, Mumbai, Maharashtra State Board of Literature and Culture, Mumbai and State Marathi Development Society, Mumbai and the literary institutions mentioned in the above 26."
+  },
+  {
     "mr": "सर्व मंत्रालयीन विभागांनी आपले कार्यालय व विभागाच्या अधिपत्याखालील सर्व क्षेत्रिय कार्यालयांना “मराठी भाषा संवर्धन पंधरवडा” साजरा करण्याबाबत दि.१०.१२.२०१९ पूर्वी आदेश द्यावेत व त्याची प्रत मराठी भाषा विभागास अग्रेषित करावी.",
     "en": "All Ministries/ Departments have informed their offices and all field offices under the Department about the celebration of\" Marathi Bhasha Samvardhan Pakhwada.\" Orders should be issued before 10.12.2019 and a copy of the same should be forwarded to the Marathi Language Department."
   },
@@ -21078,6 +21318,10 @@
   {
     "mr": "सुधारीत आकृतीबंध निश्चित करण्यात आला आहे. त्यानुसार विभागाच्या अधिनस्त असलेल्या महाराष्ट्र",
     "en": "A revised schedule has been set. According to the Maharashtra"
+  },
+  {
+    "mr": "सुधारीत आकृतीबंधा नुसार मंजूर अस्थायी पदसंख्या",
+    "en": "Number of temporary posts sanctioned as per revised pattern"
   },
   {
     "mr": "सुधारीत नाव",
@@ -21844,6 +22088,10 @@
     "en": "1) Translation 2) Professional writing 3) Book creation and publishing process 2 of 6 pages"
   },
   {
+    "mr": "१) अनुवादलेखन २) व्यावसायिक लेखन ३) पुस्तक निर्मिती व प्रकाशन प्रक्रिया ४) ई-बुक ५) स्व-प्रकाशन ६) युनिकोडचा वापर ७) ऑनलाईन पुस्तक विक्री ८) लेखक प्रकाशन करार ९) संहिता लेखन १०) विश्वकोशाबाबत माहिती कार्यशाळा ११) लघुपट (Short Flim), माहितीपट (Documentary)",
+    "en": "1) Translation 2) Professional Writing 3) Book Production and Publication 4) E-Book 5) Self-Publishing 6) Use of Unicode 7) Online Book Sales 8) Author Publication Agreement 9) Code Writing 10) Information Workshop on Encyclopedia 11) Short Film, Documentary"
+  },
+  {
     "mr": "१) अनुवादलेखन २) व्यावसायिक लेखन ३) पुस्तक निर्मिती व प्रकाशन प्रक्रिया ४) ई-बुक ५) स्व-प्रकाशन ६) युनिकोडचा वापर ७) ऑनलाईन पुस्तक विक्री ८) लेखक प्रकाशन करार ९) संहिता लेखन १०) विश्वकोशाबाबत माहिती कार्यशाळा ११) शॉर्ट फिल्म / डॉक्युमेंटरी लेखन",
     "en": "1) Translation 2) Professional Writing 3) Book Production and Publication 4) E-Book 5) Self-Publishing 6) Use of Unicode 7) Online Book Sales 8) Author Publication Agreement 9) Code Writing 10) Information Workshop on Encyclopedia 11) Short Film/ Documentary Writing"
   },
@@ -22172,6 +22420,10 @@
     "en": "1. m. Prime Minister 2. Minister (Marathi Language) 3. Minister of State (Marathi Language) Member 4. Secretary, Marathi Language Department Member 5. Chairman, Maharashtra State Literary and Cultural Board Member 6. Chairman, All India Marathi Literary Corporation Member 7. Secretary, Maharashtra State Literary and Cultural Board Member Secretary"
   },
   {
+    "mr": "१. या वर्षीच्या ३५० व्या शिवराज्याभिषकाचे औचित्य साधून, छत्रपती शिवाजी महाराजांच्या विचारांचा जागर मराठी मनात व्हावा म्हणून “३५० वा शिवराज्याभिषेक छत्रपती शिवाजी महाराजांचा, उत्सव शिवचरित्रपर पुस्तकांच्या वाचनाचा” ही मध्यवर्ती संकल्पना निश्चित करुन वाचन प्रेरणा दिनानिमित्त कार्यक्रम आयोजित करण्यात यावेत.",
+    "en": "1. To mark the 350th Shivarajyabhisheka this year, programmes should be organized on the occasion of Reading Inspiration Day by fixing the central theme of\" 350th Shivarajyabhisheka of Chhatrapati Shivaji Maharaj, Celebration of Shivcharitra, reading of books.\""
+  },
+  {
     "mr": "१. विद्यमान ठिकाणी त्यांची वैद्यकीय तपासणी झाली असल्याने महाराष्ट्र नागरी सेवा (सेवेच्या सर्व साधारण शर्ती) नियम, १९८१ च्या नियम, १५ (४) नुसार या पदासाठी स्वतंत्र वैद्यकीय तपासणी करण्यात आलेली नाही.",
     "en": "Since he has undergone medical examination at the present place, no separate medical examination has been conducted for the post as per Rule 15 (4) of the Maharashtra Civil Services (All General Conditions of Service) Rules, 1981."
   },
@@ -22290,6 +22542,10 @@
   {
     "mr": "१०. या योजनेची उद्दिष्टे साध्य होण्याच्या दृष्टीने अनिवार्य, अत्यावश्यक खर्च योग्य ती प्रक्रिया करुन पार पाडून वित्त विभागाकडून वेळोवेळी देण्यात येणाऱ्या निर्देशांचे काटेकोरपणे पालन करण्यात यावे. तसेच संस्थेचे लेखापरीक्षण सनदी लेखापालांकडून प्रतिवर्षी करण्यात यावे व त्याचा अहवाल शासनास सादर करण्यात यावा.",
     "en": "In order to achieve the objectives of the scheme, the necessary expenditure should be carried out by following the due process and strictly following the instructions given by the Finance Department from time to time. Also, the audit of the institution should be done annually by the Chartered Accountants and its report should be submitted to the government."
+  },
+  {
+    "mr": "१०. विकीपीडीया सारख्या माध्यमावर मराठीत जास्तीत जास्त लेखन व्हावे याकरीता यासंबधीच्या कार्यशाळा आयोजीत करण्यात याव्यात.",
+    "en": "10.Workshops should be organized so that more and more writings can be done in Marathi on media like Wikipedia."
   },
   {
     "mr": "१०. शासनाने दिलेला निधीचा उपयोग मराठी भाषा आणि साहित्य विषयक उपक्रम राबविण्यासाठीच करण्यात येणार असल्याचे प्रमाणपत्र संस्थेने देणे बंधनकारक राहील.",
@@ -22432,6 +22688,10 @@
     "en": "To provide financial assistance to recognized teachers' organizations teaching Marathi language subjects for organizing essay competitions, seminars, workshops, drama competitions under various language activities."
   },
   {
+    "mr": "११. वाचन प्रेरणा दिनाच्या औचित्याने मराठी प्रचार/प्रसार/वाचन संस्कृतीच्या विकासासाठी विविध कार्यक्रमाचे आयोजन करावे.",
+    "en": "On the occasion of Reading Inspiration Day, various programs should be organized for the promotion/ propagation/ development of reading culture in Marathi."
+  },
+  {
     "mr": "११. श्री. देवरे यांनी मराठी व हिंदी भाषा परीक्षा उत्तीर्ण होणे किंवा सूट मिळविणे याबाबत यापूर्वी पूर्तता केली नसेल तर राज्य शासनाच्या प्रचलित धोरणानुसार मराठी व हिंदी भाषा परीक्षा उत्तीर्ण होणे किंवा सदर परीक्षा उत्तीर्ण होण्यापासून सूट घेणे आवश्यक राहील.",
     "en": "If Mr. Deore has not completed the Marathi and Hindi language examination or obtained exemption in the past, it will be necessary to pass the Marathi and Hindi language examination or obtain exemption from passing the said examination as per the prevailing policy of the State Government."
   },
@@ -22508,6 +22768,10 @@
     "en": "Mrs. Vibhavari Damle- Member"
   },
   {
+    "mr": "१२. मराठी अभिजात दर्जाबाबत सर्वसामान्यांना माहिती व्हावी यासाठी सर्व क्षेत्रीय कार्यालयांनी विविध कार्यक्रमाचे आयोजन करावे.",
+    "en": "12. To make the general public aware of the classical status of Marathi, all the regional offices should organize various programs."
+  },
+  {
     "mr": "१२. मराठी भाषा/साहित्य/कोश वाड्मय या विषयांवर ऑनलाईन व्याख्याने, चर्चासत्रे, परिसंवाद, कार्यशाळा यांचे आयोजन तसेच तज्ञ, विचारवंत व साहित्यिकांच्या मुलाखतींचे आयोजन करण्यात यावे.",
     "en": "Online lectures, seminars, symposiums, workshops and interviews of experts, thinkers and litterateurs on Marathi language/ literature/ Kosh Vadmay should be organized."
   },
@@ -22576,6 +22840,10 @@
     "en": "13.Online programs should be organized by presenting innovative ideas for the promotion of Marathi."
   },
   {
+    "mr": "१३. वाचन प्रेरणा दिना निमित्त वाचन संस्कृती वृद्धीगत होण्यासाठी विविध प्रकारचे संदेश, व्याख्याने, चर्चासत्रे, अभिवाचन, सामूहिक वाचन, ग्रंथ प्रदर्शन याचे आयोजन करण्यात यावे.",
+    "en": "On the occasion of Reading Inspiration Day, various types of messages, lectures, seminars, invitations, group readings, book exhibitions should be organized to promote the culture of reading."
+  },
+  {
     "mr": "१३. श्री. देवरे यांनी शासकीय अधिकारी/कर्मचाऱ्यांकरिता विहित केलेल्या वर्तणूक नियमानुसार काटेकोरपणे पालन करणे त्यांचेवर बंधनकारक राहील.",
     "en": "13. It shall be mandatory for the Government officers/ employees to strictly follow the rules of conduct prescribed by Shri Devre."
   },
@@ -22638,6 +22906,10 @@
   {
     "mr": "१४. प्रसारमाध्यमे तसेच प्रशासनात मराठी भाषेचा वापर याबाबत व्याख्याने, चर्चासत्रे, परिसंवाद, कार्यशाळा, सादरीकरणे यांचे आयोजन करावे.",
     "en": "Lectures, seminars, seminars, workshops, presentations on the use of Marathi language in media and administration should be organized."
+  },
+  {
+    "mr": "१४. महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ, राज्य मराठी विकास संस्था, भाषा संचालनालय, महाराष्ट्र राज्य विश्वकोश निर्मिती मंडळ यांनी वर्षभरात राबविण्यात येणाऱ्या वाचन संस्कृती विषयक कार्यशाळांचे वेळापत्रक जाहिर करून त्याप्रमाणे कार्यक्रम आयोजित करावेत.",
+    "en": "The Maharashtra State Board of Literature and Culture, the State Marathi Development Institute, the Directorate of Languages, the Maharashtra State Encyclopedia Production Board should announce the schedule of workshops on reading culture to be conducted throughout the year and organize programs accordingly."
   },
   {
     "mr": "१४. वरील निकषानुसार संबंधित परिचय केंद्रे कामकाज करतात किंवा कसे याचा आढावा संचालक, राज्य मराठी विकास संस्था व संचालक माहिती व जनसंपर्क संचालनालय हे घेतील.",
@@ -22706,6 +22978,10 @@
   {
     "mr": "१५,०००/",
     "en": "15,000/-"
+  },
+  {
+    "mr": "१५. महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ, राज्य मराठी विकास संस्था, भाषा संचालनालय, महाराष्ट्र राज्य विश्वकोश निर्मिती मंडळ यांनी मराठीचा प्रचार प्रसार प्रभावीपणे कसा करता येईल या विषयावरील तज्ञांच्या कार्यशाळा आयोजित कराव्यात.",
+    "en": "The Maharashtra State Board of Literature and Culture, the State Marathi Development Society, the Directorate of Languages, the Maharashtra State Encyclopedia Production Board should organize workshops of experts on how to promote Marathi effectively."
   },
   {
     "mr": "१५. महाराष्ट्र शासनाच्या अन्य विभागाकडून एखाद्या आर्थिक वर्षात अर्जदार / प्रस्तावित संस्थेस अर्थसहाय्य/अनुदान प्राप्त झाले असल्यास त्यावर्षी त्या विभागाकडे कोणत्याही प्रयोजनार्थ अर्ज/प्रस्ताव सादर करु नये. संस्थेने तशा आशयाचे प्रमाणपत्र अर्जासोबत संस्थेच्या सही/शिक्क्यानिशी सादर करणे आवश्यक राहील.",
@@ -22812,6 +23088,10 @@
     "en": "The State Marathi Development Society will be empowered to select the applicant institutions based on the above criteria."
   },
   {
+    "mr": "१६. वाचन संस्कृती वृद्धीगत होण्यासाठी, मराठी भाषेच्या वापराबाबत जागरुकता निर्माण करण्याकरिता, संबंधित कार्यालयांनी संकेतस्थळे, आकाशवाणी, दूरदर्शन, खाजगी दूरचित्रवाहिन्या, एफ.एम. रेडिओ, स्थानिक केबल नेटवर्क, फेसबुक, ट्विटर, व्हॉट्सअॅप इ. प्रसार माध्यमातून याबाबतचे दृक-श्राव्य संदेश प्रसारित करावेत.",
+    "en": "Broadcast audio-visual messages through radio, local cable networks, Facebook, Twitter, WhatsApp, etc."
+  },
+  {
     "mr": "१६. शब्दभांडार आणि नवीन पर्यायी शब्दनिर्मिती याबाबतच्या स्पर्धांचे आयोजन करावे.",
     "en": "16. Organise competitions on vocabulary and new alternative words."
   },
@@ -22864,6 +23144,10 @@
     "en": "Organize Marathi calligraphy, beautiful Marathi handwriting competitions and related workshops."
   },
   {
+    "mr": "१७. मातृभाषेची महती आणि माहिती, तसेच मातृभाषेचे व्यक्तिगत व समाजजीवनातील स्थान आणि मातृभाषेचे मानसशास्त्रीय व शिक्षणशास्त्राच्या दृष्टीने महत्त्व या विषयांवर विचारमंथनात्मक कार्यक्रम आयोजित करावेत.",
+    "en": "Organize brainstorming programmes on the importance and knowledge of mother tongue, the place of mother tongue in personal and social life, and the psychological and pedagogical significance of mother tongue."
+  },
+  {
     "mr": "१७१९८३/",
     "en": "171983/"
   },
@@ -22890,6 +23174,10 @@
   {
     "mr": "१८. मराठी भाषेच्या सर्वांगीण विकासासाठी कार्य करणाऱ्या नि:स्पृह व्यक्तींना आणि त्यांनी निर्माण केलेल्या संस्थांना किंवा प्रकल्पांना भेट देणे.",
     "en": "18. Visits to persons with disabilities and institutions or projects created by them working for the overall development of Marathi language."
+  },
+  {
+    "mr": "१८. सकस साहित्याची, नव्या माहितीची, आधुनिक विज्ञान व तंत्रज्ञानाची मराठीतील पुस्तके वाचकांपर्यंत पोहोचविण्याच्या हेतूने राज्यभर कार्यक्रम आयोजित करावेत.",
+    "en": "Programs should be organized across the state with the aim of providing Marathi books of healthy literature, new information, modern science and technology to the readers."
   },
   {
     "mr": "१८. सचिव, महाराष्ट्र लोकसेवा आयोग, मुंबई (पत्राने), १९. महालेखापाल (लेखा परीक्षा/लेखा व अनुज्ञेयता), मुंबई, २०. अधिदान व लेखा अधिकारी, मुंबई, २१. निवासी लेखा परीक्षा अधिकारी, मुंबई, २२. भाषा संचालक, भाषा संचालनालय, वांद्रे (पूर्व), मुंबई, २३. सचिव, महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ, मुंबई, २४. सचिव, महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ, मुंबई, २५. संचालक, राज्य मराठी विकास संस्था, मुंबई, २६.सर्व विभागीय सहायक भाषा संचालक, पुणे/नागपूर/औरंगाबाद/नवी मुंबई, २७. कार्यकारी अधिकारी, आकाशवाणी केंद्र, एच.टी. पारेख मार्ग, आमदार निवास समोर, चर्चगेट, मुंबई-४०००२०(पत्राने),",
@@ -22922,6 +23210,10 @@
   {
     "mr": "१९. मराठी भाषेचा प्रचार, प्रसार व संवर्धन यासाठी विविध मार्गानी स्वयंप्रेरणेने काम करणाऱ्या व्यक्ती/संस्था यांच्या कार्यास प्रोत्साहन देण्यासाठी त्यांच्या कार्याचा गौरव/सत्कार करण्याबाबत कार्यक्रम आयोजित करावे.",
     "en": "To promote the work of individuals/ organizations working voluntarily in various ways for the promotion, propagation and preservation of Marathi language, to organize programs to honor/ felicitate their work."
+  },
+  {
+    "mr": "१९. वाचन संस्कृती वृद्धीगत होण्यासाठी तसेच न्यायव्यवहार, शासन प्रशासन, प्रसार माध्यमे, केंद्र तथा राज्य शासनाची कार्यालये, इतर अशासकीय कार्यालये इत्यादी ठिकाणी होणारा मराठी भाषेचा वापर याबाबत जागरूकता वाढविण्यासाठी व्याख्याने, चर्चासत्रे, परिसंवाद, कार्यशाळा, सादरीकरणे तसेच आधुनिक माध्यमांचा वापर करून कार्यक्रमांचे आयोजन करावे.",
+    "en": "Lectures, seminars, symposiums, workshops, presentations and events using modern media should be organized to increase the reading culture and to increase awareness about the use of Marathi language in the judiciary, government administration, media, central and state government offices, other non-government offices, etc."
   },
   {
     "mr": "१९.०७.१९६७ |",
@@ -23118,6 +23410,10 @@
   {
     "mr": "२) मराठी भाषा विभाग, शासन निर्णय क्र. मभावा-२०२०/प्र.क्र.९८/भाषा-२,",
     "en": "Department of Marathi Language, Government Resolution No. 2020/ P.S. 98/ Language-2,"
+  },
+  {
+    "mr": "२) मराठी भाषा विभाग, शासन निर्णय क्र. मभावा-२०२०/प्र.क्र.९८/भाषा-२, दि. २४ जून, २०२२ ३) मराठी भाषा विभाग, शासन परिपत्रक क्र.वाप्रेदि-२०२२/प्र.क्र.७५/भाषा-३, दिनांक २६ सप्टेंबर, २०२२.",
+    "en": "2) Department of Marathi Language, Government Resolution No. 2020/ No. 98/ Language-2, D. 24th June, 2022 3) Department of Marathi Language, Government Circular No. 2022/ No. 75/ Language-3, dated 26th September, 2022."
   },
   {
     "mr": "२) मराठी भाषा विभाग, शासन निर्णय क्र. मभावा-२०२०/प्र.क्र.९८/भाषा-२, दिनांक दि. २४ जून, २०२२",
@@ -23944,6 +24240,10 @@
     "en": "The promotion and propagation of Marathi language is the main policy of the Marathi Language Department. In order to widen the scope of this policy, the existing and expanded initiatives to be implemented in respect of Marathi language will be reviewed. The administrative approval has been given in pursuance of the Government decision dated 24 th June, 2022. As per the decision of the government, the Marathi Language Department and the subordinate office have been instructed to organize the program for the promotion and dissemination of Marathi. As per the decision of the government, the concerned commissioner and collector have to organize various programs."
   },
   {
+    "mr": "२. मराठी भाषेचा प्रचार-प्रसार, विकास, जतन, संवर्धन हे मराठी भाषा विभागाचे मुख्य धोरण आहे.",
+    "en": "The main policy of the Marathi Language Department is the promotion, development, preservation and conservation of the Marathi language."
+  },
+  {
     "mr": "२. महाराष्ट्र (तृतीय पुरवणी) विनियोजन अधिनियम, २०१७ (सन २०१७ चा महाराष्ट्र अधिनियम क्रमांक-६२) म्हणून महाराष्ट्र शासन राजपत्र असाधारण, भाग-४ दिनांक २१ डिसेंबर, २०१७ अन्वये रूपये दोन कोटी छत्तीस लक्ष फक्त अनुदानास मान्यता दिली आहे. वित्त विभाग शासन परिपत्रक",
     "en": "As per the Maharashtra (Third Supplementary) Appropriation Act, 2017 (Maharashtra Act No.62 of 2017), the Government of Maharashtra has approved a grant of Rs. the Finance Department Government Circular"
   },
@@ -24130,6 +24430,18 @@
   {
     "mr": "२. वाचा येथील अ.क्र. ४ व ५ येथील सामान्य प्रशासन विभागाच्या शासन निर्णयान्वये भूतपूर्व दुय्यम सेवा निवड मंडळाच्या कक्षेतील (महाराष्ट्र लोकसेवा आयोगाच्या कक्षेबाहेरील) “गट-ब (अराजपत्रित)”, “गट-क” व “गट-ड” संवर्गातील नामनिर्देशनाच्या कोट्यातील पदे भरण्यासाठी भरती प्रक्रिया राबविण्यासंदर्भातील एकत्रित मार्गदर्शक",
     "en": "Consolidated Guidelines for the conduct of recruitment process for filling up of nominated quota posts in Group-B (Non-Gazetted), Group-C and Group-D cadres under the purview of the Ex-Secondary Service Selection Board (outside the purview of Maharashtra Public Service Commission) as per the decision of the Government of General Administration Department, No. 4& 5, Vacha"
+  },
+  {
+    "mr": "२. वाचा येथील अ.क्र. ५) येथे नमूद प्रस्तावाच्या अनुषंगाने पुढील तक्त्यात दर्शविलेल्या १६ अस्थायी पदांना दि. ०१.०९.२०२३ ते दि. २९.०२.२०२४ या कालावधीपर्यंत या शासन निर्णयान्वये मुदतवाढ देण्यात येत आहे.",
+    "en": "In pursuance of the proposal referred to in paragraph (5), the 16 temporary posts indicated in the following table shall be filled up. 01.09.2023 to dt. This Government is extending the period up to 29.02.2024."
+  },
+  {
+    "mr": "२. वाचा येथे नमूद अ.क्र. ३ येथील प्रस्तावाच्या अनुषंगाने महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळातील खालील तक्त्यात नमूद केलेल्या एकूण ०४ अस्थायी पदांना दिनांक ०१.०९.२०२३ ते दिनांक २९.०२.२०२४ या कालावधीसाठी मुदतवाढ देण्यात येत आहे.",
+    "en": "In pursuance of the proposal at Annexure No.3 mentioned herein, a total of 04 temporary posts mentioned in the following table in the Maharashtra State Board of Literature and Culture are being extended for the period from 01.09.2023 to 29.02.2024."
+  },
+  {
+    "mr": "२. वाचा येथे नमूद अ.क्र. ४) येथील प्रस्तावाच्या अनुषंगाने महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळाच्या मुंबई व वाई कार्यालयासाठी पुढील तक्त्यात नमूद एकूण २७ अस्थायी पदांना दि. ०१.०९.२०२३ ते दि. २९.०२.२०२४ पर्यंत मुदतवाढ देण्यात येत आहे :",
+    "en": "In pursuance of the proposal mentioned herein (A.No.4), a total of 27 temporary posts mentioned in the following table for the Mumbai and Wai offices of the Maharashtra State Marathi Encyclopedia Production Board have been sanctioned. 01.09.2023 to dt. Extension upto 29.02.2024:"
   },
   {
     "mr": "२. विंदा करंदीकर जीवन गौरव पुरस्काराचे स्वरुप रु.५.०० लक्ष (रुपये पाच लक्ष फक्त) रोख, मानचिन्ह व मानपत्र असे असून, श्री. पु. भागवत पुरस्काराचे स्वरुप रु.३.०० लक्ष (रुपये तीन लक्ष फक्त) रोख, मानचिन्ह व मानपत्र असे आहे.",
@@ -24428,6 +24740,10 @@
     "en": "Assistant Director of Languages (Training and Establishment), Group-B (Gazetted), Date of this post"
   },
   {
+    "mr": "२. सांस्कृतिक कार्यक्रम/चर्चासत्रे / प्रशिक्षण इत्यादी माध्यमातून दरवर्षी वाचन संस्कृती वाढीस लागण्याच्या दृष्टीने विविध कार्यक्रम आयोजित करण्यात येतात. त्याप्रमाणे यावर्षी सुद्धा समाजमाध्यमे / प्रत्यक्षरित्या (ऑनलाईन / ऑफलाईन ) पद्धतीने कार्यक्रम करण्यात यावेत.",
+    "en": "Various events are organized every year to promote the culture of reading through cultural programs/ seminars/ training etc. Similarly, this year too, the programmes should be conducted through social media/ physical mode (online/ offline)."
+  },
+  {
     "mr": "२. सामाजिक न्याय व विशेष सहाय्य विभागाच्या संदर्भ क्र.२ येथील शासन निर्णयामध्ये सर्व सरकारी व्यवहार, प्रकरणे, प्रमाणपत्र इत्यादींमध्ये “दलित” शब्दाऐवजी पर्यायी शब्द वापरण्याबाबत परिच्छेद क्र.३ मध्ये “भारतीय संविधानाच्या अनुच्छेद ३४१ नुसार निर्गमित केलेल्या मा. राष्ट्रपतींच्या आदेशांतर्गत नमूद अनुसूचित जातीच्या संबोधनाकरीता सर्व सरकारी व्यवहार, प्रकरणे, प्रमाणपत्र इत्यादींमध्ये “दलित” शब्दाऐवजी इंग्रजी भाषेत “Scheduled Caste & Nav Bouddha” आणि मराठी भाषेत “अनुसूचित जाती व नव बौद्ध” या संबोधनाचा वापर करण्यात यावा. असे सूचित करण्यात आले आहे. ही बाब विचारात घेता अध्यक्ष, महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ यांच्याकडून संदर्भाधीन दि.४.११.२०१९ च्या प्राप्त शिफारशीनुसार पुढीलप्रमाणे सुधारणा करण्यात येत आहे.",
     "en": "Department of Social Justice and Special Assistance Reference No. 2 In the Government decision here, in all Government transactions, cases, certificates, etc., the use of alternative words in place of the word\" Dalit\" is mentioned in Paragraph No. 3 issued under Article 341 of the Constitution of India. \" All government transactions, cases, certificates, etc. for the address of Scheduled Castes mentioned under the President's order should use the address\"\" Scheduled Caste& Nav Bouddha\"\" in English language instead of the word\"\" Dalit\"\" and\"\" Scheduled Caste& Nav Buddhist\"\" in Marathi language.\" This has been announced. In view of this, the Chairman, Maharashtra State Board of Literature and Culture, under the supervision of Dy. As per the recommendation received on 4.11.2019, the following amendments are being made:"
   },
@@ -24528,6 +24844,10 @@
     "en": "20) Organize competitions on vocabulary and new alternative words."
   },
   {
+    "mr": "२०. आकाशवाणी व दूरदर्शनवरुन सादर करण्यात येत असलेल्या माहिती व जनसंपर्क महासंचालनालयाच्या प्रायोजित कार्यक्रमामध्ये वाचन संस्कृती वृद्धीगत होण्यासाठी मान्यवरांच्या मुलाखती, परिसंवाद आयोजित करावे.",
+    "en": "20. To promote reading culture in the sponsored programmes of the Directorate General of Information and Public Relations, which are being presented on All India Radio and Doordarshan, interviews of dignitaries, seminars should be organized."
+  },
+  {
     "mr": "२०. विश्वकोश निर्मिती मंडळाच्या संकेतस्थळावर नोंदीची संख्या वाढावी या दृष्टीने याबाबत महाराष्ट्र विश्वकोश निर्मिती मंडळाने वर्षभर विविध कार्यशाळांचे आयोजन करावे, तसेच नोदींची संख्या वाढविण्याच्या दृष्टीने विविध उपाययोजना कराव्यात.",
     "en": "20. In order to increase the number of entries on the website of the Encyclopedia Production Board, the Maharashtra Encyclopedia Production Board should organize various workshops throughout the year in this regard and take various measures to increase the number of entries."
   },
@@ -24588,6 +24908,10 @@
     "en": "According to the Maharashtra Official Language Act, 1964, 100% of the government business, except for prohibited purposes, must be done in Marathi language. According to the three-language formula, the use of Marathi language is mandatory in all offices/ public undertakings under the central government in the state. All the district magistrates should bring to the notice of the concerned authorities the orders issued from time to time."
   },
   {
+    "mr": "२१. वाचन संस्कृती वृद्धीगत होण्यासाठी मराठी भाषा / साहित्य / कोश वाङ्मय या विषयांवर ऑनलाईन व्याख्याने, चर्चासत्रे, परिसंवाद, कार्यशाळा यांचे आयोजन तसेच तज्ज्ञ, विचारवंत व साहित्यिकांच्या मुलाखतींचे आयोजन करण्यात यावे.",
+    "en": "21. Online lectures, seminars, symposiums, workshops and interviews of experts, thinkers and litterateurs on Marathi language/ literature/ lexicography should be organized to promote reading culture."
+  },
+  {
     "mr": "२१.०६.२०२१ अन्वये प्रसिद्ध महाराष्ट्र नागरी सेवा (ज्येष्ठतेचे विनियमन) नियमावली, २०२१",
     "en": "The Maharashtra Civil Services (Regulation of Seniority) Rules, 2021 published under 21.06.2021"
   },
@@ -24624,6 +24948,10 @@
     "en": "All the regional offices should disseminate information about the various sites of the Marathi Language Department, the websites of the regional offices, the mobile app prepared by the Directorate of Language and the Maharashtra State Marathi Encyclopedia Production Board to the general public."
   },
   {
+    "mr": "२२. वाचन संस्कृती वृद्धीगत होण्यासाठी मराठीच्या प्रचार / प्रसारासाठी अभिनव कल्पना सादर करून त्याप्रमाणे कार्यक्रमांचे आयोजन करण्यात यावे.",
+    "en": "22. To promote reading culture, innovative ideas for the promotion/ propagation of Marathi should be presented and programs should be organized accordingly."
+  },
+  {
     "mr": "२२.०१.२०११ |",
     "en": "22.01.2011."
   },
@@ -24654,6 +24982,10 @@
   {
     "mr": "२३. वरील कार्यक्रम सर्व ३६ जिल्ह्यांमध्ये आयोजित करण्यासाठी महाराष्ट्र राज्य मराठी संस्कृती मंडळ राज्य मराठी विकास संस्था, भाषा संचालनालय, मुंबई, महाराष्ट्र राज्य विश्वकोष निर्मिती मंडळ यांनी खालीलप्रमाणे साहित्य संस्थांची मदत घेऊन त्या साहित्य संस्थांसमोर दर्शविलेल्या जिल्ह्यात कार्यक्रम आयोजित करण्यासाठी मदत घ्यावी.",
     "en": "In order to organize the above programs in all the 36 districts, the Maharashtra State Marathi Culture Board, the State Marathi Development Society, the Directorate of Language, Mumbai, the Maharashtra State Vishwakosh Nirman Board should take help of the following literary organizations to organize the programs in the districts shown before them."
+  },
+  {
+    "mr": "२३. वाचन संस्कृती वृद्धीगत होण्यासाठी विविध मार्गानी स्वयंप्रेरणेने काम करणाऱ्या व्यक्ती/ संस्था यांच्या कार्यास प्रोत्साहन देण्यासाठी त्यांच्या कार्याचा गौरव / सत्कार करणे.",
+    "en": "To honour/ felicitate the work of individuals/ organizations who have volunteered in various ways to promote the culture of reading."
   },
   {
     "mr": "२३.०४.२०१९ व क्र.७४९/का.१२, दिनांक २३.११.२०२० आणि वित्त विभागाच्या अनौपचारीक संदर्भ क्र.",
@@ -24696,6 +25028,10 @@
     "en": "24) Maharashtra State in order to increase the number of entries on the website of the Encyclopedia Production Board"
   },
   {
+    "mr": "२४. महाराष्ट्र राजभाषा अधिनियम, १९६४ नुसार वर्जित प्रयोजने वगळता शासकीय कामकाज १००% मराठी भाषेतून करणे आवश्यक आहे. तर, त्रिभाषा सूत्रानुसार राज्यातील केंद्र शासनाच्या",
+    "en": "According to the Maharashtra Official Language Act, 1964, 100% of the government business, except for prohibited purposes, must be done in Marathi language. So, according to the three-language formula, the central government of the state"
+  },
+  {
     "mr": "२४. सर्व जिल्हाधिकाऱ्यांना वरीलप्रमाणे कार्यक्रमांचे आयोजन करण्यासाठी भाषा संचालनालय, मुंबई, महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ, मुंबई, महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ,",
     "en": "24. All the District Collectors are requested to organize the above programmes through Directorate of Languages, Mumbai, Maharashtra State Marathi Encyclopedia Production Board, Mumbai, Maharashtra State Literary and Cultural Board,"
   },
@@ -24728,6 +25064,10 @@
     "en": "25,000/-"
   },
   {
+    "mr": "२५. भाषा संचालनालयाने व महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळाने तयार केलेल्या भ्रमणध्वनी उपयोजकाबद्दल (मोबाईल अॅप) तसेच मराठी भाषा विभागाच्या व त्या अंतर्गत कार्यालयांच्या संकेतस्थळाबद्दलची माहिती शाळा व महाविद्यालयांनी विद्यार्थ्यांपर्यंत प्रसारीत करण्याची जबाबदारी चारही क्षेत्रीय कार्यालयांची राहील.",
+    "en": "The four zonal offices will be responsible for disseminating information about the mobile app developed by the Directorate of Languages and the Maharashtra State Marathi Encyclopedia Production Board as well as the website of the Marathi Language Department and its subordinate offices to the students of schools and colleges."
+  },
+  {
     "mr": "२५. सर्व मंत्रालयीन विभाग, विभागीय आयुक्त, सर्व जिल्हाधिकारी व मुख्य कार्यकारी अधिकारी यांनी आपआपल्या विभागातील कार्यक्षेत्रातील संबंधितांचे सहकार्य घेऊन हा सोहळा पार पाडण्यासाठी सर्व अधिकारी/कर्मचारी यांना सहभागी याकरुन घ्यावे.",
     "en": "25. All Ministries/ Departments, Divisional Commissioners, District Collectors and Chief Executive Officers shall co-ordinate with their respective field functionaries to ensure participation of all officers/ staff in the celebrations."
   },
@@ -24752,6 +25092,10 @@
     "en": "26."
   },
   {
+    "mr": "२६. वरील कार्यक्रम सर्व जिल्ह्यांमध्ये आयोजित करण्यासाठी जिल्हाधिकारी / महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ, राज्य मराठी विकास संस्था, भाषा संचालनालय, महाराष्ट्र राज्य विश्वकोश निर्मिती मंडळ यांनी खालीलप्रमाणे साहित्य संस्थांची मदत घेऊन त्या साहित्य संस्थांसमोर दर्शविलेल्या जिल्ह्यात कार्यक्रम आयोजित करण्यासाठी मदत घ्यावी.",
+    "en": "In order to organize the above programs in all the districts, the District Collector/ Maharashtra State Board of Literature and Culture, State Marathi Development Society, Directorate of Languages, Maharashtra State Encyclopedia Production Board should take the help of the following literary organizations to organize the programs in the districts shown before them."
+  },
+  {
     "mr": "२६.०८.२०१९ व वित्त विभागाच्या अनौपचारीक संदर्भ क्र. ३७३/१९/सेवा-३ यांच्या दिनांक २९.०८.२०१९",
     "en": "26.08.2019 and the Finance Department's Informal Reference No. 373/19/ Service-3 dated 29.08.2019"
   },
@@ -24762,6 +25106,10 @@
   {
     "mr": "२७) वरील कार्यक्रम सर्व ३६ जिल्ह्यांमध्ये आयोजित करण्यासाठी महाराष्ट्र राज्य साहित्य आणि",
     "en": "27) Maharashtra State Literature and Culture to organize the above programs in all 36 districts."
+  },
+  {
+    "mr": "२७. ग्रंथालये, महाविद्यालये, तंत्रमहाविद्यालये, पदविका संस्था तसेच अखत्यारीतील अन्य संस्थांना वाचन प्रेरणा दिनानिमित्त विविध कार्यक्रम आयोजित करण्याच्या सूचना उच्च व तंत्र शिक्षण विभागाने संबंधितांना द्याव्यात.",
+    "en": "The Department of Higher and Technical Education should instruct libraries, colleges, technical colleges, diploma institutions and other institutions under its jurisdiction to organize various programs on the occasion of Reading Inspiration Day."
   },
   {
     "mr": "२७.०५.२०१६ पासून रिक्त आहे. या पदाचा अतिरिक्त कार्यभार वेळोवेळी अन्य अधिका-यांकडे",
@@ -24782,6 +25130,10 @@
   {
     "mr": "२८. कार्यकारी अधिकारी, दूरदर्शन केंद्र वरळी, पांडुरंग बुधकर मार्ग, वरळी, मुंबई, २९. सर्व केंद्रीय कार्यालयांची मुख्यालये/ बँका, विमा कंपन्या व सार्वजनिक उपक्रम यांची मुख्यालये/रेल्वे/विमान वाहतूक यांची मुख्यालये (स्वतंत्र पत्राद्वारे),",
     "en": "Executive Officer, Doordarshan Kendra, Worli, Pandurang Budhkar Marg, Worli, Mumbai, 29. Headquarters of all Central Offices/ Headquarters of Banks, Insurance Companies and Public Sector Undertakings/ Headquarters of Railways/ Aviation (by separate letter)."
+  },
+  {
+    "mr": "२८. सांस्कृतिक व पर्यटन विभागाअंतर्गत सांस्कृतिक संचालनालयाच्या अखत्यारीतील संस्थांना उदा. फिल्मसिटी गोरेगाव, अखिल भारतीय नाट्य महामंडळ अशा स्वरुपाच्या संस्थांना वाचन प्रेरणा दिनानिमित्त विविध कार्यक्रम आयोजित करण्याच्या सूचना सांस्कृतिक व पर्यटन विभागाने संबंधितांना द्याव्यात.",
+    "en": "28. Institutions under the Directorate of Culture under the Department of Culture and Tourism e.g. The Department of Culture and Tourism should instruct institutions like Filmcity Goregaon and All India Theatre Corporation to organize various programs on the occasion of Reading Inspiration Day."
   },
   {
     "mr": "२८.०२.२०१८ |",
@@ -24830,6 +25182,10 @@
   {
     "mr": "२९) |",
     "en": "29)."
+  },
+  {
+    "mr": "२९. शालेय शिक्षण विभागाअंतर्गत शाळा या वाचन संस्कृती वृध्दींगत करण्याच्या दृष्टीने एक महत्त्वाचे माध्यम आहे ही बाब विचारात घेता वाचन संस्कृती वृध्दींगत होण्यासाठी शालेय शिक्षण विभागाने त्यांच्या अखत्यारीतील संबंधित संस्थांना वाचन प्रेरणा दिनानिमित्त विविध कार्यक्रम आयोजित करण्याच्या सूचना द्याव्यात.",
+    "en": "29. Considering the fact that schools under the Department of School Education are an important medium for promoting reading culture, the Department of School Education should instruct the concerned institutions under it to organize various programmes on the occasion of Reading Inspiration Day to promote reading culture."
   },
   {
     "mr": "२९.०२.२०२० पर्यंत मुदतवाढ देण्यात आली आहे.",
@@ -25404,6 +25760,10 @@
     "en": "Expenditure on the above mentioned items\" Demand No.ZF-01, 2052, Secretariat-General Service, 090,"
   },
   {
+    "mr": "३. उपरोक्त बाबींवर होणारा खर्च “मागणी क्रमांक झेडएफ-०१, लेखाशीर्ष २०५२, सचिवालयीन सर्वसाधारण सेवा, ०९०, सचिवालय (००) (०२) भाषा संचालक (अनिवार्य) (२०५२ ५०६३) ०१ वेतन” या लेखाशिर्षाखाली खर्ची टाकण्यात यावा व तो संबंधित वित्तीय वर्षाच्या मंजूर अनुदानातून भागविण्यात यावा.",
+    "en": "3. The expenditure on the above matters shall be covered under the head\" Demand No.ZF-01, Account Head 2052, Secretariat General Service, 090, Secretariat (00) (02) Language Director (Compulsory) (2052 5063) 01 Salary\" and shall be met from the sanctioned grant of the respective financial year."
+  },
+  {
     "mr": "३. उपरोक्त बाबीवर होणारा खर्च \" मागणी क्रमांक झेडएफ - ०२, २२०५, कला व संस्कृती, ००, १०२, कला व",
     "en": "3. Expenditure on the aforesaid matter\" Demand No.ZF-02, 2205, Art& Culture, 00, 102, Art&"
   },
@@ -25676,6 +26036,10 @@
     "en": "The expenditure in this regard shall be met from the grants to be sanctioned during the financial year 2022-23 under the head Demand No.ZF-2, 2205, Art and Culture 00 102 Operation of Art and Culture (01) (03) Promotion of Best Books (Programme), 50 Other Expenditure (2205 3199)."
   },
   {
+    "mr": "३. या वर्षी वाचन प्रेरणा दिन साजरा करण्याच्या दृष्टीने नेमके कोणते कार्यक्रम आयोजित करण्यात यावे या दृष्टीने खालीलप्रमाणे सर्वसाधारण सूचना देण्यात येत आहेत :",
+    "en": "The following general suggestions are being made in terms of what programmes should be organized to celebrate Reading Inspiration Day this year:"
+  },
+  {
     "mr": "३. या शासन निर्णयान्वये संदर्भाधीन क्र. ४ व ५ अनुसार अध्यक्ष महाराष्ट्र राज्य साहित्य संस्कृती मंडळ यांनी गठीत केलेली परिक्षण समिती प्रशासकीय कारणास्तव रद्द करण्यात येत आहे.",
     "en": "3. Subject to this Government Decision No. According to section 4 and 5, the examining committee formed by the President Maharashtra State Literary and Cultural Board is being canceled due to administrative reasons."
   },
@@ -25880,6 +26244,14 @@
     "en": "3. The proposal has been referred to the Finance Department vide Informal Reference No. 285/2019/ Expenditure-4, D. 26.08.2019 and the Planning Department vide Informal Reference No. 1907. as agreed on 29.08.2019."
   },
   {
+    "mr": "३. सदर बाबीवर होणारा खर्च “मागणी क्र. झडएफ-०२, लेखाशिर्ष २२०५, कला व संस्कृती, (००) (१०२), कला व संस्कृती प्रचालन (०१) अनिवार्य (०१) (०२) मराठी विश्वकोश निर्मिती मंडळ (२२०५ ३१८१) ०१ वेतन” या लेखाशिर्षाखाली खर्ची टाकण्यात यावा व तो संबंधित वित्तीय वर्षाच्या मंजूर अनुदानातून भागविण्यात यावा.",
+    "en": "3. Expenditure on the subject\" Demand No. ZF-02, Account Head 2205, Art and Culture, (00) (102), Art and Culture Operations (01) Mandatory (01) (02) Marathi Encyclopedia Production Board (2205 3181) 01 Salary\" and the expenditure should be met from the sanctioned grant of the respective financial year."
+  },
+  {
+    "mr": "३. सदर बाबीवर होणारा खर्च “मागणी क्रमांक झेडएफ-०२, लेखाशिर्ष २२०५ कला व संस्कृती, (००) १०२, कला व संस्कृती प्रचालन, (०१) अनिवार्य (०१) (०१) राज्य साहित्य व संस्कृती मंडळ (२२०५ ३१७२) ०१ वेतन” या लेखाशिर्षाखाली खर्ची टाकण्यात यावा व तो संबंधित वित्तीय वर्षाच्या मंजूर अनुदानातून भागविण्यात यावा.",
+    "en": "The expenditure on this matter should be spent under the head\" Demand No.ZF-02, Accounts Head 2205 Art& Culture, (00) 102, Art& Culture Operations, (01) Mandatory (01) (01) State Board of Literature& Culture (2205 3172) 01 Salary\" and it should be shared from the sanctioned grant of the respective financial year."
+  },
+  {
     "mr": "३. सदर बाबीवर होणारा खर्च “मागणी क्रमांक झेडएफ-०२, लेखाशीर्ष २२०५ कला व संस्कृती,",
     "en": "3. Expenditure on the subject\" Demand No.ZF-02, head 2205 Art& Culture,"
   },
@@ -26028,8 +26400,16 @@
     "en": "3. To foster\" Reading Culture,\" everyone should encourage reading by sending at least one book in PDF format online to their friends, family members, etc."
   },
   {
+    "mr": "३. “वाचन संस्कृती” जोपासण्यासाठी सर्वांनी आपले मित्र, कुटुंबातील सदस्य इत्यादींना किमान एक पुस्तक भेट देऊन प्रोत्साहन द्यावे.",
+    "en": "3. To foster\" Reading Culture,\" everyone should encourage by gifting at least one book to their friends, family members etc."
+  },
+  {
     "mr": "३.मराठी भाषेसंदर्भात काही लेख",
     "en": "3.A few articles on language for me"
+  },
+  {
+    "mr": "३०. महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळ यांनी वाचन प्रेरणा दिनानिमित्त विविध कार्यक्रम आयोजित करण्याच्या सूचना अखिल भारतीय साहित्य महामंडळ तथा सर्व साहित्य संस्थांना द्याव्यात.",
+    "en": "The Maharashtra State Literary and Cultural Board should instruct the All India Literary Council and all literary institutions to organize various programs on the occasion of Reading Inspiration Day."
   },
   {
     "mr": "३०.सर्व मंत्रालयीन विभाग, यांना विनंती करण्यात येते की, सदर शासन निर्णय त्यांनी त्यांच्या विभागाच्या नियंत्रणाखालील सर्व कार्यालयांच्या निदर्शनास आणावा.",
@@ -26056,8 +26436,16 @@
     "en": "31, Subsidiary Grants (non-salaried)."
   },
   {
+    "mr": "३१. नगर विकास विभागाअंतर्गत महापालिका/नगरपालिका यांनी वाचन संस्कृती वृध्दींगत होण्यासाठी तथा मराठीच्या प्रचार प्रसारासाठी त्यांच्या अखत्यारीत्यातील संबंधित संस्थांना वाचन प्रेरणा दिनानिमित्त विविध कार्यक्रम आयोजित करण्याच्या सूचना द्याव्यात.",
+    "en": "Municipal corporations/ municipalities under the Urban Development Department should instruct the concerned institutions under their jurisdiction to organize various programs on the occasion of Reading Inspiration Day to promote the culture of reading and to promote Marathi."
+  },
+  {
     "mr": "३१. नामिकेतील संबधित खाजगी अनुवाद (भाषा संचालनालयामार्फत) ३२. सर्व कक्ष अधिकारी, मराठी भाषा विभाग ३३. निवडनस्ती (भाषा-२).",
     "en": "Private Translation of Nominations (through Directorate of Languages) 32. All Cell Officers, Marathi Language Department 33. Selection Committee (Language-II)."
+  },
+  {
+    "mr": "३१. सर्व मंत्रालयीन विभाग, विभागीय आयुक्त, सर्व जिल्हाधिकारी व मुख्य कार्यकारी अधिकारी यांनी आपआपल्या विभागातील कार्यक्षेत्रातील संबंधितांचे सहकार्य घेऊन हा सोहळा पार पाडण्यासाठी सर्व अधिकारी / कर्मचारी यांना सहभागी करुन घ्यावे. तसेच सदर परिपत्रकाच्या अनुषंगाने विविध कार्यक्रमाचे आयोजन करण्याबाबत संबंधितांना आवश्यक ते निर्देश द्यावेत.",
+    "en": "31. All Ministerial Departments, Divisional Commissioners, all Collectors and Chief Executive Officers shall co-operate with the concerned in their respective areas and involve all officers/ staff in the celebration. Also, necessary instructions should be given to the concerned regarding organizing various programs in accordance with this circular."
   },
   {
     "mr": "३१.०३.२०२७ |",
@@ -26074,6 +26462,10 @@
   {
     "mr": "३१.०८.२०१८ पर्यंत सदर सहायक भाषा संचालक (प्रशिक्षण व आस्थापना) या पदाचा अतिरिक्त",
     "en": "Up to 31.08.2018, the post of Assistant Director of Languages (Training and Establishment)"
+  },
+  {
+    "mr": "३१.०८.२०२३ अन्वये प्रशासकीय विभागांना प्रदान करण्यात आलेल्या अधिकारांचा वापर करुन निर्गमित करण्यात येत आहे.",
+    "en": "These are being issued in exercise of the powers conferred on the administrative departments under 31.08.2023."
   },
   {
     "mr": "३१.०८.२०२३ पर्यंत या शासन निर्णयान्वये मुदतवाढ देण्यात येत आहे.",
@@ -26108,8 +26500,16 @@
     "en": "3181) 01 to be spent under the salary and from the sanctioned grant for the financial year 2021-2022."
   },
   {
+    "mr": "३२. विज्ञान, आधुनिक तंत्रज्ञान, समाजविद्या यांच्या कक्षेत येणारे विषय तसेच, महाराष्ट्राची भाषा, संस्कृती आणि इतिहास या विषांयावर मराठीमध्ये ग्रंथरचना करण्याविषयाच्या बहुविध वाङ्:मय योजनांच्या परिपूर्तीसाठी चालना देणे, मदत करणे तसेच, ज्ञान आणि संस्कृतीच्या विकासासाठी साधनस्वरुप व आधुनिक विज्ञान व तंत्रज्ञान यातील अद्ययावत प्रगतीची माहिती देणारी, मूलभूत ज्ञान देणारी पुस्तके व अभिजात ग्रंथाची भाषांतरे स्वस्त किंमतीत उपलब्ध करुन देणे महाराष्ट्र राज्य साहित्य आणि संस्कृती मंडळाचे उद्दिष्ट आहे. त्यानुसार मंडळाने कालानुरुप ललित साहित्य बरोबरच ज्ञान आणि संस्कृतीच्या विकासासाठी साधनस्वरुप व आधुनिक विज्ञान, तंत्रज्ञान तसेच अन्य नवीन विषयांचा आढावा घेऊन त्याचा अंतर्भाव संस्थेच्या पुस्तक प्रकाशनात करावा.",
+    "en": "The objective of the Maharashtra State Board of Literature and Culture is to promote and assist in the fulfillment of the multifaceted literary plans for the subjects covered by science, modern technology, sociology, as well as the language, culture and history of Maharashtra in Marathi, and to provide basic knowledge books and translations of classics at affordable prices, as a means for the development of knowledge and culture and to inform about the latest advances in modern science and technology. Accordingly, the board should review and include in the book publication of the institution, along with the fine literature as a means for the development of knowledge and culture, as well as modern science, technology and other new topics."
+  },
+  {
     "mr": "३३) |",
     "en": "33)."
+  },
+  {
+    "mr": "३३. राज्य मराठी विकास संस्थेने वाचन संस्कृती वृध्दींगत करण्याच्या दृष्टीने नवीन उपक्रम सुरु करुन त्याच्या वर्षभराच्या वेळापत्रकानुसार सदर उपक्रम सुरु करण्यासाठी शासनास प्रस्ताव सादर करावा.",
+    "en": "The State Marathi Development Society should start a new initiative to promote reading culture and submit a proposal to the government to start this initiative according to its year-long schedule."
   },
   {
     "mr": "३४ अस्थायी पदांना संदर्भ क्र.६ येथील दि.१५.०३.२०१८ रोजीच्या शासन निर्णयान्वये दि. १ मार्च, २०१८ ते",
@@ -26120,12 +26520,20 @@
     "en": "34 temporary posts under reference No. 7 here. As per the Government Decision dated 16.01.2018"
   },
   {
+    "mr": "३४. विश्वकोश निर्मिती मंडळाने विश्वकोशाच्या नोंदी अद्यावत करण्याच्या दृष्टीने निरंतर प्रशिक्षण कार्यक्रम तथा नोंदीची संख्या वाढविण्यासाठी कार्यक्रम निश्चित करावा व अंमलबजावणीचा अहवाल शासनास सादर करावा.",
+    "en": "The Encyclopaedia Production Board shall determine the programme for continuous training and increase in the number of entries for updating the records of the Encyclopaedia and submit the report of implementation to the Government."
+  },
+  {
     "mr": "३५) |",
     "en": "35)."
   },
   {
     "mr": "३५,०००/",
     "en": "35,000/-"
+  },
+  {
+    "mr": "३५. मराठी भाषेचा प्रचार व प्रसार हे मराठी भाषा विभागाचे मुख्य धोरण आहे. सदर धोरण विचारात घेऊन वरील सूचना तसेच संदर्भाधीन दि. २४ जून, २०२२ च्या शासन निर्णयातील सूचना कार्यक्रम आयोजित करतांना सर्व मंत्रालयीन विभाग तथा मंत्रालयीन विभागअंतर्गत सर्व संबंधित विभागांनी तसेच अन्य सर्व संस्थांनी, मंडळांनी, महामंडळांनी, सार्वजनिक उपक्रम, बँका यांनी विचारात घ्याव्यात.",
+    "en": "The promotion and propagation of Marathi language is the main policy of the Marathi Language Department. In view of the above, this policy is being implemented. The suggestions in the Government Resolution dated 24 th June, 2022 should be taken into consideration by all the Ministries and Departments concerned under the Ministry as well as all other institutions, boards, corporations, PSUs, banks while organizing the event."
   },
   {
     "mr": "३५० दालनासाठी देखभाल, दुरूस्ती व इतर अनुषंगिक कामासाठी वार्षिक खर्च",
@@ -26394,6 +26802,10 @@
   {
     "mr": "४) वित्त विभाग, शासन निर्णय क्रमांक पदनि २०१६/प्र.क्र.८/१६/आ.पु.क., दिनांक ११.०९.२०१९",
     "en": "Department of Finance, Government Resolution No. 2016/ No. 8/16/ APC, dated 11.09.2019"
+  },
+  {
+    "mr": "४) वित्त विभाग, शासन शुद्धीपत्रक क्र. पदनि २०१६/प्र.क्र.८/१६/आ.पु.क., दि. ०६ सप्टेंबर, २०२३ ५) सचिव, महाराष्ट्र राज्य मराठी विश्वकोश निर्मिती मंडळ यांचे पत्र क्र. विनिमं २०२३/आस्था/ अस्थायी पदे/६३६, दि. २८.०७.२०२३",
+    "en": "4) Department of Finance, Government Corrigendum No. Post No. 2016/ Q. No. 8/16/ A.P.C., Dy. 06th September, 2023 5) Secretary, Maharashtra State Marathi Encyclopedia Production Board vide letter No. Exchange 2023/ Aastha/ Temporary Posts/ 636, Dy. 28.07.2023"
   },
   {
     "mr": "४) शासनाचे मराठी शब्दकोश / शासनव्यवहार कोश व विविध परिभाषा कोश यांतील माहिती आता एकत्रितपणे https://shabdakosh.marathi.gov.in या संकेतस्थळावर उपलब्ध करून देण्यात येणार आहे. मराठी भाषा गौरव दिनी सदर संकेतस्थळाचे लोकार्पण प्रस्तावित आहे. भाषा गौरव",
@@ -26680,6 +27092,10 @@
     "en": "The State Marathi Development Society should pay the expenses incurred for the Vishwa Marathi Sammelan as mentioned in the proposal at Reference No. 3 and ensure that there are no administrative and financial irregularities."
   },
   {
+    "mr": "४. ललित साहित्य यापुरते कार्यक्रम मर्यादित न ठेवता विज्ञान, तंत्रज्ञान, व्यवस्थापन, पर्यावरण, आरोग्य, संगणक, संकेतस्थळं, अवकाश विज्ञान इत्यादी कालानुरुप विषयांचा देखील समावेश कार्यक्रमात करण्यात यावा .",
+    "en": "4. Not limiting the programme to fine arts, the time-befitting subjects like science, technology, management, environment, health, computers, websites, space science etc. should also be included in the programme."
+  },
+  {
     "mr": "४. वरील सुधारणेमुळे पुरस्कारांची संख्या ४ होईल व यापोटी होणारा खर्च मागणी क्रमांक.झेडएफ-०२ मुख्य लेखाशिर्ष, २२०५ - कला व संस्कृती, (०२) योजनांतर्गत योजना (०२) (०१) राज्य मराठी विकास संस्था (३२०५) या लेखाशीर्षाखाली मंजूर अनुदानातून भागविण्यात यावा.",
     "en": "4. With the above amendment, the number of awards will be 4 and the expenditure incurred will be Rs. ZF-02 Main Account Head, 2205-Art and Culture, (02) Scheme under the scheme (02) (01) State Marathi Development Society (3205) to be shared from the grant sanctioned under the account head."
   },
@@ -26816,12 +27232,24 @@
     "en": "4. The Government Decision Finance Division No. 2016/ PR No. 8/16/ APC, dated 15.02."
   },
   {
+    "mr": "४. सदर शासन निर्णय वित्त विभाग, शासन निर्णय क्र. पदनि २०१६/प्र.क्र.८/१६/आ.पु.क. दि.",
+    "en": "The Government Decision Department of Finance, Government Decision No. Post No. 2016/ Q. No. 8/16/ A.P.C.D."
+  },
+  {
     "mr": "४. सदर शासन निर्णय वित्त विभागाच्या अनुक्रमे व्यय शाखा व विनिमय शाखेच्या च्या अनौपचारिक संदर्भ क्र.३११/१८, दि.१८.०८.२०१८ व ४५०/१८, दि.२४.०९.२०१८ अन्वये प्राप्त झालेल्या मान्यतेनुसार निर्गमित करण्यात येत आहे.",
     "en": "4. The said Government Decision is based on the Informal Reference No. 1 of the Expenditure Branch and Exchange Branch respectively of the Finance Department. 311/18, dt. 18.08.2018 and 450/18, Dy. Issued pursuant to approval received on 24.09.2018."
   },
   {
     "mr": "४. सदर शासन निर्णय वित्त विभागाच्या अनौपचारिक संदर्भ क्र. २७७/२०१९/सेवा-९, दिनांक १८.०७.२०१९ अन्वये दिलेल्या सहमतीने निर्गमित करण्यात येत आहे.",
     "en": "4. The said Government Decision is based on the Informal Reference No. 277/2019/ SERVICE-9, dated 18.07.2019."
+  },
+  {
+    "mr": "४. सदर शासन निर्णय वित्त विभागाच्या संदर्भाधीन दि. ३१ ऑगस्ट, २०२३ रोजीच्या शासन निर्णयान्वये व दिनांक ६ सप्टेंबर, २०२३ रोजीच्या शासन शुद्धीपत्रकान्वये प्रशासकीय विभागांना प्रदान करण्यात आलेल्या अधिकारांचा वापर करुन निर्गमित करण्यात येत आहे.",
+    "en": "(4) The decision of the Government shall be subject to the approval of the Finance Department. It is being issued in exercise of the powers conferred on the administrative departments by the Government Resolution dated 31st August, 2023 and the Government Corrigendum dated 6th September, 2023."
+  },
+  {
+    "mr": "४. सदर शासन निर्णय वित्त विभागाच्या संदर्भाधीन दिनांक ३१ ऑगस्ट, २०२३ रोजीच्या शासन निर्णयान्वये व दिनांक ०६ सप्टेंबर, २०२३ रोजीच्या शासन शुद्धीपत्रकान्वये प्रशासकीय विभागांना प्रदान करण्यात आलेल्या अधिकारांचा वापर करुन निर्गमित करण्यात येत आहे.",
+    "en": "The said Government Decision is being issued in exercise of the powers conferred on the Administrative Departments by the Government Decision dated 31st August, 2023 and the Government Corrigendum dated 6th September, 2023 in the context of the Finance Department."
   },
   {
     "mr": "४. सदर शासन निर्णय संदर्भ क्र. ४ अन्वये प्रशासकीय विभागांना प्रदान करण्यात आलेल्या",
@@ -27292,6 +27720,10 @@
     "en": "5. This Government decision is based on the Informal Reference No. 176/18 Service-6/ Expenditure, Dy. As on 23.08.2018"
   },
   {
+    "mr": "५. “वाचन संस्कृती” वाढीस लागावी तसेच मराठी भाषेचा प्रचार, प्रसार या उद्दिष्टांसह रोजगाराभिमुख उपक्रमातून जास्तीत जास्त तरूण पिढीला आकर्षित करण्यासाठी खालील विषयांवरील तसेच अशा स्वरूपाच्या अन्य कार्यक्रमाचे आयोजन करण्यात यावे.",
+    "en": "5. In order to increase the\" reading culture\" and to attract more youth through employment oriented activities with the aim of promoting Marathi language, the following topics and other programs of such nature should be organized."
+  },
+  {
     "mr": "५.०० लक्ष",
     "en": "Rs 5.00 lakh"
   },
@@ -27568,6 +28000,10 @@
     "en": "If they need an extension to join for some unavoidable, justifiable reason within the prescribed period, they must seek an extension from the government and if they do not take such an extension or do not get such an extension from the government, they will not get the best service according to the merit list of the Maharashtra Public Service Commission."
   },
   {
+    "mr": "६. व्हॉटसअॅप (WhatsApp), इंटरनेट (Internet ), फेसबुक (Facebook), ट्विटर (Twitter ) अशा प्रकारच्या सामाजिक प्रसार माध्यमातून वाचन संस्कृती वृध्दींगत होईल / वाचनास प्रेरणा मिळेल असे संदेश प्रसारीत करावेत.",
+    "en": "Social media platforms like WhatsApp, Internet, Facebook, Twitter etc., should be used to spread messages that promote reading culture/ inspire reading."
+  },
+  {
     "mr": "६. श्री. किशोर कदम सदस्य",
     "en": "Mr. Kishore Kadam Member"
   },
@@ -27774,6 +28210,10 @@
   {
     "mr": "७. मराठी भाषा विषयक प्रशिक्षण कार्यशाळा, स्पर्धा परीक्षांचे आयोजन करणे.",
     "en": "Organizing training workshops and competitive examinations on Marathi language."
+  },
+  {
+    "mr": "७. मराठी वाचन संस्कृती जपण्यासाठी सर्व उपलब्ध माध्यमांचा जास्तीत जास्त वापर करुन मराठीतील साहित्य स्वयंस्फूर्तीने वाचकांना पाठवावे.",
+    "en": "To preserve the Marathi reading culture, literature in Marathi should be sent to the readers spontaneously by making maximum use of all available media."
   },
   {
     "mr": "७. मराठीचा प्रचार प्रसार हे राज्य मराठी विकास संस्थेच्या घटनेतील मुख्य धोरण आहे. त्यानुसार राज्य मराठी विकास संस्थेने वरील अटी व शर्ती आधारे पुढील कार्यवाही करावी.",
@@ -28008,6 +28448,10 @@
     "en": "All institutions should organize Marathi Digital Literary Conference at their level."
   },
   {
+    "mr": "८. सर्व संस्थांनी सामाजिक माध्यमांवर (Social Media) “मराठी वाचन कट्टा” निर्मिती करावी.",
+    "en": "8. All institutions should create\" Marathi reading katta\" on social media."
+  },
+  {
     "mr": "८६२/२०१६ वरील न्यायनिर्णयाच्या अनुषंगाने कार्यवाहीच्या अधीन राहून प्रसिद्ध करण्यात येत आहे.",
     "en": "862/2016 is being published subject to proceedings pursuant to the above judgment."
   },
@@ -28134,6 +28578,10 @@
   {
     "mr": "९. सर्व विभागीय आयुक्त, १०.सर्व जिल्हाधिकारी, ११.कुलगुरु, सर्व विद्यापीठे, १२.सर्व जिल्हापरिषदांचे मुख्य कार्यकारी अधिकारी, १३.प्रबंधक, उच्च न्यायालय, मुळ शाखा, मुंबई (पत्राने), १४. प्रबंधक, उच्च न्यायालय, अपील शाखा, मुंबई (पत्राने), १५. प्रबंधक, लोक आयुक्त व उप लोक आयुक्त यांचे कार्यालय, मुंबई, १६.सचिव, महाराष्ट्र विधानमंडळ सचिवालय, विधानसभा, विधानभवन, मुंबई, १७.सचिव, महाराष्ट्र विधानमंडळ सचिवालय, विधानपरिषद, विधानभवन, मुंबई,",
     "en": "9. All Divisional Commissioners, 10.Service Collectors, 11.A.Collectors, all Universities, 12.CEO of Zilla Parishads, 13.Founder, High Court, Primary Branch, Mumbai (by letter), 14.Manager, High Court, Appellate Branch, Mumbai (by letter), 15.Manager, Office of Lok Ayukta and Deputy Lok Ayukta, Mumbai, 16.Sachiv, Maharashtra Legislature Secretariat, Vidhan Bhavan, Mumbai, 17.Sachiv, Maharashtra Legislature Secretariat, Legislative Council, Vidhan Bhavan, Mumbai,"
+  },
+  {
+    "mr": "९. सर्व संस्थांनी आपल्या स्तरावर मराठी आभासी (Digital) / प्रत्यक्ष साहित्य संमेलनाचे आयोजन करावे.",
+    "en": "All institutions should organize Marathi virtual/ physical literary conferences at their level."
   },
   {
     "mr": "९.०० लक्ष",
